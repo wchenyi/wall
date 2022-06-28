@@ -94,8 +94,7 @@
 ---
 
 ## 订阅体验 🐱‍🏍
-| 软件 | 谷歌商店 
-|V2ray|![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2d8d6d5e-a2e5-4f1b-bf06-1215cfb59702%2FScreenshot_20220628_182950.jpg?table=block&id=eaabe63a-f3e1-4c89-a9a2-c5fa96fcd453&spaceId=05a1b89d-ff84-4035-bdc6-863a0fae0b47&width=2000&userId=62214507-0949-4741-9682-1fc185bc9272&cache=v2)
+![Vray](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2d8d6d5e-a2e5-4f1b-bf06-1215cfb59702%2FScreenshot_20220628_182950.jpg?table=block&id=eaabe63a-f3e1-4c89-a9a2-c5fa96fcd453&spaceId=05a1b89d-ff84-4035-bdc6-863a0fae0b47&width=2000&userId=62214507-0949-4741-9682-1fc185bc9272&cache=v2)
 ---
 
 ## 其他 📜
