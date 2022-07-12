@@ -4,4 +4,4 @@
 
 > 需要修改的人只需要修改"index.md"即可，本站不提供除工具外的其他内容，如有需要请自行搜索
 
-> 如需欣赏请点[这里](https://wawngcy.tk/wall)
+> 如需欣赏请点[这里](https://wangcy.tk/wall)
