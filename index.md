@@ -1,4 +1,7 @@
 # 翻墙小道
+
+出于学习与交流目的设立本站，其他不当行为与本站无关‼️
+
 ## 简介
 
 尽可能提供各操作系统的翻墙软件在线下载，包括**Windows**、**Android**、**IOS**、**Linux**等。
@@ -93,15 +96,16 @@
 
 ---
 
-## 订阅体验 🐱‍🏍
+## 订阅体验（已失效） 🐱‍🏍
 ![Vray](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa401eb04-5943-4603-a688-4854904e11d1%2F68747470733a2f2f7777772e6e6f74696f6e2e736f2f696d6167652f687474707325334125324625324673332d75732d776573742d322e616d617a6f6e6177732e636f6d2532467365637572652e6e6f74696f6e2d7374617469632e636f6d25324632643864366435652d613265352d3.jpg?table=block&id=f2287f16-495c-40d2-8ee4-b101ba2dc509&spaceId=05a1b89d-ff84-4035-bdc6-863a0fae0b47&width=1580&userId=62214507-0949-4741-9682-1fc185bc9272&cache=v2)
+
 ---
 
 ## 其他 📜
 > 请在尽量在已经翻墙的前提下打开
 
-- [机场推荐](https://root-crown-817.notion.site/c69e47537e984c0dbb6baaf6b65ca73f)
-- [免流-混淆订阅转换](https://zhuan.mlsao.xyz)
+- [机场推荐](https://www.icloud.com/shortcuts/8ca94dbffeb9477abaf4a0bed8d66355)
+- [订阅转换](https://zhuan.mlsao.xyz)
 - [节点池](https://www.mattkaydiary.com/2021/02/5-free-subscribe-generator-tools-2021-site.html?m=1)
 - [节点池订阅转换](https://ednovas.xyz/2021/01/15/freeproxies/#EdNovas的节点池)
 - [安卓抓包](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/HttpCanary_%E2%80%94_HTTP_Sniffer_Capture_Analysis_v3_3_5_apkpure_com.apk)
@@ -111,9 +115,8 @@
 
 ## 个人网站
 
-- [个人主页](https://wangcy.tk)🤔
-- [个人博客](https://blog.wangcy.tk)💬
+<!-- - [个人主页](https://wangcy.tk)🤔-->
+- [博客](https://nextjs-notion-starter-kit-wangcy.vercel.app/)💬
 - [宜春学院导航起始页](https://ycu.wangcy.cf)🔎
 - [自制起始页](http://search.wangcy.cf)🤯
-- [捐助](https://donate.wangcy.tk/)🤑
-- [壁纸收藏](https://wangcy.tk/Wallpaper/index.html)🏞
+- [赞助](https://donate.wangcy.tk/)🤑
