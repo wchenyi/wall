@@ -6,11 +6,13 @@
 
 尽可能提供各操作系统的翻墙软件在线下载，包括**Windows**、**Android**、**IOS**、**Linux**等。
 提供**浏览器插件**翻墙等，更多软件[参考](https://itlanyan.com/v2ray-clients-download/)或[参考](https://www.v2ray.com/awesome/tools.html)
-[示范文件](https://github.com/wchenyi/wall/blob/gh-pages/example.md)
+<!--[示范文件](https://github.com/wchenyi/wall/blob/gh-pages/example.md)-->
 
 ---
 
-### 1⃣️**Windows** 🖥
+## 软件
+
+  ### 1⃣️**Windows** 🖥
 
 | 软件 | 官网 | 备用 | 备注 |
 | ----------------- | :-----------:|:-----------: |:-----------|
