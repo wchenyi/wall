@@ -7,6 +7,7 @@
 尽可能提供各操作系统的翻墙软件在线下载，包括**Windows**、**Android**、**IOS**、**Linux**等。
 提供**浏览器插件**翻墙等，更多软件[参考](https://itlanyan.com/v2ray-clients-download/)或[参考](https://www.v2ray.com/awesome/tools.html)
 <!--[示范文件](https://github.com/wchenyi/wall/blob/gh-pages/example.md)-->
+免流订阅链接、节点可以通过[网站](https://zhuan.mlsao.xyz/)直接转换，也可以[手动转换](https://root-crown-817.notion.site/be090a08bd974053b304d4dbad81e1b6)
 
 ---
 
@@ -107,7 +108,7 @@
 > 请在尽量在已经翻墙的前提下打开
 
 - [机场推荐](https://www.icloud.com/shortcuts/8ca94dbffeb9477abaf4a0bed8d66355)
-- [订阅转换](https://zhuan.mlsao.xyz)
+- [混淆转换](https://zhuan.mlsao.xyz)；[手动转换](https://root-crown-817.notion.site/be090a08bd974053b304d4dbad81e1b6)
 - [节点池](https://www.mattkaydiary.com/2021/02/5-free-subscribe-generator-tools-2021-site.html?m=1)
 - [节点池订阅转换](https://ednovas.xyz/2021/01/15/freeproxies/#EdNovas的节点池)
 - [安卓抓包](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/HttpCanary_%E2%80%94_HTTP_Sniffer_Capture_Analysis_v3_3_5_apkpure_com.apk)
