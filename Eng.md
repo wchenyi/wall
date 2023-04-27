@@ -56,7 +56,7 @@ Here I would like to express my sincere admiration and thanks to the original cr
 2⃣️The content of the explanatory document on this site comes from some of my own thoughts and the video content of YouTube bloggers Dianwan Technology AK and Bad Lin, and I have organized it myself. If there is any infringement, please contact me to delete it. I sincerely apologize for the inconvenience caused to you guys!<br>
 3⃣️This site was originally only for your own needs. After collecting the official website addresses of various tools on the Internet, it was sorted out in a more comfortable form. After there is more content later, it will be organized into a dedicated site, and the interface and content layout will be continuously optimized for a better look and feel. The site provides services including but not limited to:<br>
 
-- *Android | Tools download channels for Hongmeng, Windows, Mac, IOS, iPad OS, LInux* and other platforms.
+- Tools download channels for Hongmeng, Android, Windows, Mac, IOS, iPad OS, LInux* and other platforms.
 - Description of some software sources (without specific usage methods)
 - Explanation of the concept and principle of scientific online
 - Conversion tools, streaming ride-sharing platforms, Google tools
