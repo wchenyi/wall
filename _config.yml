@@ -4,6 +4,8 @@
 # theme: jekyll-theme-cayman
 
 remote_theme: wchenyi/cayman
+plugins:
+- jekyll-remote-theme
   
 title: 翻墙小道
 description: 尽可能详全面的搜集科学上网信息进行交流学习-非盈利<br>严禁用于违法行为
