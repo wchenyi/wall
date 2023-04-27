@@ -3,14 +3,14 @@
 # theme: minima
 # theme: jekyll-theme-cayman
 
-remote_theme: wchenyi/cayman@v0.2.0
+remote_theme: wchenyi/cayman
   
 title: 翻墙小道
 description: 尽可能详全面的搜集科学上网信息进行交流学习-非盈利<br>严禁用于违法行为
 
-show_downloads: true
+show_downloads: "true"
 
-github.is_project_page: true
+github.is_project_page: "true"
 
 github:
    Android: https://wangcy.tk/wall/assets/Android
