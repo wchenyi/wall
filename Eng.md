@@ -49,18 +49,17 @@
 3⃣️What is written here is a personalized modification of the original theme [Cayman](https://github.com/pages-themes/cayman), and I deleted the original [README](https://github.com/pages-themes/cayman#readme) for ease of modification. Rewrote the changes you need, if you want to view the original document, please go to the original repository. This topic is only for my project [Wall](https://wangct.tk/wall) to do in-depth customization, so it is not suitable for others to use directly, if you are interested in the modification mode and finished effect of this site, you can modify the page theme you want according to the basis and method provided by this site. <br>
 I would like to express my heartfelt admiration and gratitude to the original author, if the content of this article is infringing or other illegal content, please contact me, I will delete it as soon as possible, and apologize.
 
-<details><summary><h2>Modifications to the original theme (click to expand content)</h2></summary>
+## ①Modifications to the original theme
         
-- Modify the original header button, increase the number and give an absolute link
-- Change the original single-page layout to a layer-by-layer nesting similar to a blog
-- Canceled the link to the original Github and added the page logo
-- Added dark mode toggle
+- Modify the original header button, increase the number and give an absolute link<br>
+- Change the original single-page layout to a layer-by-layer nesting similar to a blog<br>
+- Canceled the link to the original Github and added the page logo<br>
+- Added dark mode toggle<br>
 - ...
-</details>
  
-<details><summary><h2>Edit method (click to expand content)</h2></summary>
+## ②Edit method
 
-### 1. Modify the remote theme configuration
+### Modify the remote theme configuration
     
 [Fork](https://github.com/pages-themes/cayman) theme **Cayman**, **change theme name** in *_config.yml* to the name you want, the theme of this part The name is also used as the remote configuration name for your store. The specific modification format is as follows⬇️
     
@@ -68,19 +67,19 @@ I would like to express my heartfelt admiration and gratitude to the original au
 remote_theme: wchenyi/cayman
  ```
  
- ### 2. Theme basic configuration:
+ ### Theme basic configuration:
     
 - In the ```jekyll-theme-cayman.gemspec*``` file, modify the ```name```, and the ```title``` field should be consistent with the field in *_config.yml*
 - ```_config.yml``` modify ```title``` and ```remote_theme```
 
-### 3. Modify page elements
+### Modify page elements
     
 - **Modification of the top three boxes**
   - Select ```default.html``` in the ```layout``` file to modify the ```<header class="page-header" role="banner">``` field
 - **Bottom content modified**
   - Select ```default.html``` in the ```layout``` file to modify the ```<footer class="site-footer">``` field
 
-### 4. Other modifications
+### Other modifications
     
 - **Increase logo display**
   - In the ```layout``` file, select ```default.html``` to modify the ```<fhead">``` field, and add the following content:
@@ -100,7 +99,6 @@ remote_theme: wchenyi/cayman
 - **Added dark mode toggle**
 
   - Add dark mode switching content in ```layout``` file
-</details>
     
 # 3. Site content
 1⃣️ This site is not just a simple download site, there are also a lot of explanatory documents and related information recommendations inside. The content will be updated from time to time, but it cannot be guaranteed to be the latest, nor can it be guaranteed to be accurate and effective; if you mind this, please use it with caution.<br>
