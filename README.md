@@ -1,4 +1,4 @@
-# wall
+# Awall
 尽可能全面的搜集科学上网的信息，并进行整理，以供交流
 <!-- logo -->
 <p align="center">
