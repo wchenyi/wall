@@ -1,18 +1,3 @@
-<!--添加表格并列显示图片-->
-<!--<table><tr>
-
-<td><img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9896bb2e-d7f9-41ac-a4e6-5f9ac2d2f652%2FWCY%E7%9A%84%E4%B8%AA%E4%BA%BAlogo.png?table=block&id=e714d3e8-f158-486c-87e0-baa42b87f805" border="0" height="100"/></td>
-
-<td><img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F86bccbab-6d43-4e0a-a44e-9bc5df8074c5%2F%E5%9B%BE%E7%89%873.png?table=block&id=b80f8239-e9c2-4366-8fa6-923a8266787d" border="0" height="100"/></td>
-
-</tr></table>-->
-
-<!-- logo -->
-<!--<div>
-    <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9896bb2e-d7f9-41ac-a4e6-5f9ac2d2f652%2FWCY%E7%9A%84%E4%B8%AA%E4%BA%BAlogo.png?table=block&id=e714d3e8-f158-486c-87e0-baa42b87f805" height="100"/>
-    <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F86bccbab-6d43-4e0a-a44e-9bc5df8074c5%2F%E5%9B%BE%E7%89%873.png?table=block&id=b80f8239-e9c2-4366-8fa6-923a8266787d" height="75"/>
-</div>-->
-
 # **Android 安卓**
 
 - 安卓平台以开源著称，科学上网的软件较多，质量参差不齐，但大多相同；建议大家选开源的软件，安全可靠有保障，如果你现在处于内网，建议下载1年版本。
