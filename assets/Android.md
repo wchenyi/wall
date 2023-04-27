@@ -51,6 +51,7 @@
 |ClashR|[下载](https://github.com/naicfeng/ClashRForAndroid/releases)| | | 
 |Shadowsocksr|[下载](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)| | |可单独用混淆
 |Shadowsocks|[下载](https://github.com/shadowsocks/shadowsocks-android/releases)| | |
+|NekoBoxForAndroid|[下载](https://github.com/MatsuriDayo/NekoBoxForAndroid)| | |全平台覆盖，支持sing-box
 
 ---
 
