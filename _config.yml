@@ -10,6 +10,8 @@ description: 尽可能详全面的搜集科学上网信息进行交流学习-非
 
 show_downloads: true
 
+github.is_project_page: true
+
 github:
    Android: https://wangcy.tk/wall/assets/Android
    Windows: https://wangcy.tk/wall/assets/Windows
