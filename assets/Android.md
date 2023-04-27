@@ -34,6 +34,7 @@
 ---
 
 ### **2、其他同类软件**🎨
+这一部分，备注里面写的内容是我使用的 **主观** 感受，没有写的不代表不好，只不过我没有用过，或者只是下载一下，没有长时间用过。我写了备注的也不一定就是真的靠谱，真的好用。
 
 | 软件 | 官网 | 备用 | 谷歌商店 | 备注 |
 | --- |  :----: |  :---:  |  :---:  | :--- |
@@ -44,7 +45,7 @@
 |Tinyproxy|[下载](https://tinyproxy.github.io)|[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/TinyProxy.apk)| |资源占用较高（参考值：98.24MB）<br>需代码，可单独用混淆，可单独开热点
 |igniter|[下载](https://github.com/trojan-gfw/igniter/releases)| | | 
 |Pharos Pro|[下载](https://github.com/PharosVip/Pharos-Android-Test/releases)| | | 
-|ssrray|[下载](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)| | | 
+|ssrray|[下载](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)| | |对免流设置和检测页面友好
 |Matsuri|[下载](https://github.com/MatsuriDayo/Matsuri/releases)| | | 
 |ClashAR|[下载](https://github.com/Qv2ray/Qv2ray)| | | 
 |ClashR|[下载](https://github.com/naicfeng/ClashRForAndroid/releases)| | | 
