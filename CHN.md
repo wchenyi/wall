@@ -25,8 +25,8 @@
 
 <!--语言切换-->
 <p align="center">
-    <a href="./readme.md"><img src="https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-%E4%B8%AD%E6%96%87-brightgreen"></a>
-    <a href="./Eng.md"><img src="https://img.shields.io/badge/Language-English-brightgreen"></a>
+    <a href="https://wangcy.tk/wall/CHN"><img src="https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-%E4%B8%AD%E6%96%87-brightgreen"></a>
+    <a href="https://wangcy.tk/wall/Eng"><img src="https://img.shields.io/badge/Language-English-brightgreen"></a>
 </p>    
     
 # 目录
@@ -52,38 +52,35 @@
 3⃣️这里所写明的是针对原版主题[Cayman](https://github.com/pages-themes/cayman)的个性化修改内容，为了便于修改，我删掉了原本的[README](https://github.com/pages-themes/cayman#readme)。重写了自己需要的修改部分，想要查看原文档的请去看原本的仓库。本主题只为本人的一个项目[Wall](https://wangct.tk/wall)做深度定制，所以不适合其他人直接配使用，如果你对本站的修改模式和成品效果感兴趣的话可以自行按照本站所提供的基础和方法修改出您想要的页面主题。<br>
 在这里对原作者表示衷心的敬佩和感谢，如果本文内容有侵权或者其他违规内容，请联系本人，本人会在第一时间进行删除，并作出道歉。
     
-<details>
-    <summary><h2>对原版主题的修改(点击展开内容)</h2></summary>
-    <br />
+## ①对原版主题的修改
     
-- 修改原来的标头按钮，增加数量并赋予绝对链接
-- 将原本的单页布局改为类似于博客那种层层嵌套
-- 取消了对于本来GIthub的链接，增加了页面logo
+- 修改原来的标头按钮，增加数量并赋予绝对链接<br>
+- 将原本的单页布局改为类似于博客那种层层嵌套<br>
+- 取消了对于本来GIthub的链接，增加了页面logo<br>
 - 增加了深色模式切换
 - ……
-</details>
 
-<details>
-    <summary><h2>修改方法(点击展开内容)</h2></summary>
-    <br />
+## ②修改方法
    
-### 1.修改远程主题配置
+### 修改远程主题配置
 [Fork](https://github.com/pages-themes/cayman)主题**Cayman**，在 *_config.yml*中**变更主题名**为你想要的名字，这部分的主题名也是用作你的站店的远程配置名。具体修改格式如下⬇️
   
 ```yaml
 remote_theme: wchenyi/cayman
  ```
-### 2.主题基础配置：
+### 主题基础配置：
 - 在```jekyll-theme-cayman.gemspec*```文件修改改```name```，```title```字段要和*_config.yml*中的字段保持一致
 - ```_config.yml```修改```title```和```remote_theme```
   
-### 3.页面元素修改
+### 页面元素修改
+
 - **顶部三框修改**
   - 在```layout```文件中选择```default.html```修改```<header class="page-header" role="banner">```字段
 - **底部内容修改**
   - 在```layout```文件中选择```default.html```修改```<footer class="site-footer">```字段
   
-### 4.其他修改
+### 其他修改
+
 - **增加logo显示**
   - 在```layout```文件中选择```default.html```修改```<fhead">```字段，新增以下内容：
 ```html
@@ -101,7 +98,6 @@ remote_theme: wchenyi/cayman
 
 - **增加深色模式切换**
   - 在```layout```文件增加了深色模式切换选项（颜色反转，不习惯的不要使用） 
-</details>
 
 # 3.站点内容
 
