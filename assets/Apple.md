@@ -36,17 +36,6 @@
 |ConnectSPro|[链接直达](https://apps.apple.com/us/app/connectspro/id1442910378)
 |Mume|[链接直达](https://apps.apple.com/us/app/mume-vpn/id1144787928)
 
-> **特别提醒**
-
-- 1、大陆地区的Apple ID无法找到此软件，需要在[ID管理界面](https://appleid.apple.com/#!&page=signin)切换成成港区、美区等；地址信息可以参考[美国地址生成器](https://mp.weixin.qq.com/s/vLXUSlLgiddAmNbcQk0tAg),或者自行寻找真实的非大陆国家、地区地址。
-  
-- 2、软件本身需要购买，可以在某宝购买礼品卡或者兑换卡获得港币或者美元等、或者在一些网上商店购买兑换码（一次性）例如[美区商店](https://ioskaka.com)。
-
-- 3、本站只是推荐，您在消费中等任何问题和本站无关；从个人角度出发，建议还是自己注册账号并进行购买。
-
-- 4、您也可以选择越狱或者安装ipa程序等各种方法。如果您本人是苹果开发者的话，可以自行[参考教程](https://www.xiaoglt.top/%e6%9e%84%e5%bb%ba%e8%87%aa%e5%b7%b1%e7%9a%84ios%e7%bd%91%e7%bb%9c%e4%bb%a3%e7%90%86%e5%ae%a2%e6%88%b7%e7%ab%afpotatso/)编译自己的代理软件。
-
-
 ## **2、Mac OS** 👩‍💻
 
 | 软件 |官网|备用下载
@@ -59,3 +48,13 @@
 |✅ShadowsocksX-NG|[下载](https://github.com/shadowsocks/ShadowsocksX-NG/releases)|
 |✅V2rayU|[下载](https://github.com/yanue/V2rayU/releases)|
 |✅ShadowsocksX-NG-R|[下载](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)| 
+
+## **3、特别提醒**
+- 1、大陆地区的Apple ID无法找到此软件，需要在[ID管理界面](https://appleid.apple.com/#!&page=signin)切换成成港区、美区等；地址信息可以参考[美国地址生成器](https://mp.weixin.qq.com/s/vLXUSlLgiddAmNbcQk0tAg),或者自行寻找真实的非大陆国家、地区地址。
+  
+- 2、软件本身需要购买，可以在某宝购买礼品卡或者兑换卡获得港币或者美元等、或者在一些网上商店购买兑换码（一次性）例如[美区商店](https://ioskaka.com)。
+
+- 3、本站只是推荐，您在消费中等任何问题和本站无关；从个人角度出发，建议还是自己注册账号并进行购买。
+
+- 4、您也可以选择越狱或者安装ipa程序等各种方法。如果您本人是苹果开发者的话，可以自行[参考教程](https://www.xiaoglt.top/%e6%9e%84%e5%bb%ba%e8%87%aa%e5%b7%b1%e7%9a%84ios%e7%bd%91%e7%bb%9c%e4%bb%a3%e7%90%86%e5%ae%a2%e6%88%b7%e7%ab%afpotatso/)编译自己的代理软件。
+
