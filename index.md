@@ -74,7 +74,7 @@
 
 **推荐**
 
-- [博主测评](https://www.duyaoss.com/archives/360/)、[博主荐藏](https://duangks.com/)、[Barry测评](https://10beasts.net/)
+- [博主测评](https://www.duyaoss.com/archives/360/)、[博主荐藏](https://duangks.com/)、[Barry测评](https://10beasts.net/)、[小白类科普](https://github.com/githubvpn007/v2rayNvpn#1)
 - [奶油之家](https://naiyou001.tk/)、[软件黑名单](https://10beasts.net/china-fanqiang-tools-blacklist/)、[好东西一起分享](https://10beasts.net/recommend/)
 
 **工具**
