@@ -53,7 +53,9 @@
 |Shadowsocks|[下载](https://github.com/shadowsocks/shadowsocks-android/releases)| | |
 |NekoBoxForAndroid|[下载](https://github.com/MatsuriDayo/NekoBoxForAndroid)| | |全平台覆盖，使用sing-box内核，详见[说明文档](https://matsuridayo.github.io/)，有插件可选。资源占用中等（参考值：50.89MB）
 |Matsuri|[下载](https://github.com/MatsuriDayo/Matsuri)| | |和NekoBoxForAndroid是一个作者，软件页面也相似，为长期更,有插件可选。资源占用中等（参考值：58.64MB）
-|igniter|[](https://github.com/trojan-gfw/igniter/releases)| | |专为Trojan协议的客户端
+|igniter|[下载](https://github.com/trojan-gfw/igniter/releases)| | |专为Trojan协议的客户端
+|v2flyNG|[下载](https://github.com/2dust/v2flyNG/releases)| | |
+
 
 ---
 
