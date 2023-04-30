@@ -24,6 +24,18 @@
 |✅Quantumult X|[链接直达](https://apps.apple.com/us/app/quantumult-x/id1443988620?l=zh)|⭐值得推荐，界面美观，上手难度较高
 |Kitsunebi|[链接直达](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073)|
 
+**其他免费代理/VPN软件**
+> 这里部分软件是VPN，部分软件是小众的代理软件。在此只做列举，不做任何推荐，请使用者自行甄别。
+
+| 软件 | App Store直达 
+| --- | :---: |
+|Leaf VPN|[链接直达](https://apps.apple.com/us/app/leaf-vpn/id1534109007)
+|i2Ray|[链接直达](https://apps.apple.com/us/app/i2ray/id1445270056)
+|Brook|[链接直达](https://apps.apple.com/us/app/brook-not-just-proxy/id1216002642)
+|ShadowLink|[链接直达](https://apps.apple.com/us/app/shadowlink-shadowsocks-proxy/id1439686518)
+|ConnectSPro|[链接直达](https://apps.apple.com/us/app/connectspro/id1442910378)
+|Mume|[链接直达](https://apps.apple.com/us/app/mume-vpn/id1144787928)
+
 > **特别提醒**
 
 - 1、大陆地区的Apple ID无法找到此软件，需要在[ID管理界面](https://appleid.apple.com/#!&page=signin)切换成成港区、美区等；地址信息可以参考[美国地址生成器](https://mp.weixin.qq.com/s/vLXUSlLgiddAmNbcQk0tAg),或者自行寻找真实的非大陆国家、地区地址。
