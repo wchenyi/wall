@@ -22,6 +22,7 @@
 |✅OneClick|[官网](https://oneclick.earth/#/)|⭐️苹果端免费软件，安卓端也有此软件，覆盖基础功能，可单独开热点
 |✅Surge|[链接直达](https://apps.apple.com/us/app/surge-5/id1442620678?l=zh)|⭐强大但贵，界面美观，可玩性高
 |✅Quantumult X|[链接直达](https://apps.apple.com/us/app/quantumult-x/id1443988620?l=zh)|⭐值得推荐，界面美观，上手难度较高
+|Kitsunebi|[链接直达](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073)|
 
 > **特别提醒**
 
