@@ -43,7 +43,6 @@
 |BifrostV|[下载](https://apkpure.com/cn/bifrostv/com.github.dawndiy.bifrostv)|[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/BifrostV.apk)|[下载](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)|
 |SagerNet|[下载](https://github.com/SagerNet/SagerNet/releases/)| |[下载](https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet)|类似v2rayng的软件，但是支持的协议比较多
 |Tinyproxy|[下载](https://tinyproxy.github.io)|[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/TinyProxy.apk)| |资源占用较高（参考值：98.24MB）<br>需代码，可单独用混淆，可单独开热点
-|igniter|[下载](https://github.com/trojan-gfw/igniter/releases)| | | 
 |Pharos Pro|[下载](https://github.com/PharosVip/Pharos-Android-Test/releases)| | | 
 |ssrray|[下载](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)| | |对免流设置和检测页面友好，资源占用较高（参考值：116MB）
 |Matsuri|[下载](https://github.com/MatsuriDayo/Matsuri/releases)| | | 
