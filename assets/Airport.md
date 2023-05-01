@@ -4,6 +4,7 @@
 > [1、免流机场](#1%E5%85%8D%E6%B5%81%E6%9C%BA%E5%9C%BA)<br>
 > [2、解锁流媒体机场](#2%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%BA%E5%9C%BA)<br>
 > [3、其他机场](#3%E5%85%B6%E4%BB%96%E6%9C%BA%E5%9C%BA)
+
 #  1、免流机场
 大部分机场是不做免流服务的，关于这一点如果你不能自行判断所使用的机场是是否支持免流，只要你问客服，客服就会回答。关于什么是免流，你可以参考[这篇文章](http://wangcy.tk/wall/%E5%85%8D%E6%B5%81/%E6%89%8B%E5%8A%A8%E5%85%8D%E6%B5%81%E8%AE%A2%E9%98%85%E8%BD%AC%E6%8D%A2)。
 
@@ -20,10 +21,14 @@
 |[中国国际机场](https://cnnic.pub/)|价低量大，节点质量不错，有校园网节点，[节点图](https://monitor.chinatelecom.io/)|
 
 - 还有其他免流机场，这里肯定无法一次性列举全
+
 - 关于免流订阅转换参考[这篇文章](http://wangcy.tk/wall/%E5%85%8D%E6%B5%81/%E6%89%8B%E5%8A%A8%E5%85%8D%E6%B5%81%E8%AE%A2%E9%98%85%E8%BD%AC%E6%8D%A2)
+
 ---
+
 # 2、流媒体机场
 流媒体服务一般需要原生ip，最好是专线节点。一般机场考虑到成本问题，不会设置原生IP。如果你有这样的需要你在选择机场和节点的时候就要选择支持流媒体解锁的，拿Netflix举例，如果没有原生IP就只能看自制剧，虽然奈飞的自制剧也挺多挺好看的。
+
 | 列表1	| 列表2 | 列表3 |
 | :----:|:-----:|:----:|
 |[SakuraCat](https://sakura-cat.club)|[STC-SERVER](https://mqk4azjxg8skg6gfelpb.stcserver-cloud.com/auth/register)|[MAYING](https://www.myjs.tw/)|
@@ -31,14 +36,18 @@
 |[Socloud](https://socloud.me/auth/register)|[Duang-Cloud](https://portal.duangcloud.xyz)|[STC-SPADES](https://www2.gardenparty.me/)|
 [米白云](https://high.scay.net/index2)|[一日机场](http://airport.lianpi.xyz/#/login)|[忍者云](https://renzhe.cloud/auth/login#%23)|
 |[Nexitally](https://nexitally.com/?language=cn)|[蚯蚓机场](http://qiuyin.me/)|[快银](https://kuaiyin.info/)
+
 - 提供流媒体解锁的机场一般也都提供流媒体共享账号，也可以自行购买账号或者和人合租。
+
 - 在这里也推荐集个流媒体合租平台
   - [银河录像局](https://nf.video/)、[环球巴士](https://universalbus.cn/)
   - [NFshare](https://nfshare.cn/#/)、[奈飞小铺](https://www.ihezu.cn/)
 
 ---
 # 3、其他机场
+
 下面的这些机场，有的也可能支持免流或是流媒体解锁，只是我没有每个都测过，使用者可以自行甄别
+
 | 列表1	| 列表2 | 
 | :----:| :---: |
 |[Wallless](https://portal.wallless.xyz/#/login)|[光速云](http://gs188.one/auth/login)|
