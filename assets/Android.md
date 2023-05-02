@@ -19,13 +19,12 @@
 ### **1、常用软件**😘
 
 | 软件 | 官网 | 1年 | 谷歌商店 | 备用 | 备注 |
-| --- |  :----: |  :---:  |  :---:  |  :---:  | :--- |
+| ---- | :--: | :--: | :----: | :---: | :--- |
 |✅Clash For  Android|[下载](https://github.com/Kr328/ClashForAndroid/releases)|[下载](https://musetransfer.com/s/tjxntt1jg)|[下载](https://play.google.com/store/search?q=clash&c=apps&hl=zh_CN)|[下载](https://d3.netfiles.pw/v2/android/ClashForAndroid-v2.5.4.apk)|⭐资源占用较低（参考值：27.58MB）<br>高阶操作需配置代码，可单独开热点，不可单独混淆
 |✅v2RayNG|[下载](https://github.com/2dust/v2rayNG/releases)|[下载](https://musetransfer.com/s/nzln2lirr)|[下载](https://play.google.com/store/search?q=v2ray&c=apps&hl=zh_CN)|[下载](https://d3.netfiles.pw/v2/android/v2rayNG-v1.7.3.apk)|⭐资源占用较高（参考值：60.23MB）<br>高阶操作无需代码，可单独开热点（鸿蒙系统热点可能有Bug，可以使用oneclick或者Matsuri），可单独混淆
 |✅SurfBoard|[下载](https://github.com/getsurfboard/surfboard)|[下载](https://musetransfer.com/s/t63osvynl)|[下载](https://play.google.com/store/apps/details?id=com.getsurfboard&hl=zh_CN)|[文档](https://manual.getsurfboard.com)|⭐资源占用较低（参考值：46.01MB）<br>高阶操作无需代码，可单独开热点，不可单独混淆
 |✅OneClick|[下载](https://oneclick.earth/#/)| |[下载](https://play.google.com/store/apps/details?id=earth.oneclick)| |⭐资源占用较低（参考值：57.45MB）<br>苹果和安卓端都有此软件、免费，可单独开热点
-|✅NekoBoxForAndroid|[下载](https://github.com/MatsuriDayo/NekoBoxForAndroid)| |[下载](https://play.google.com/store/apps/details?id=moe.nb4a)| |⭐资源占用较低（参考值：50.89MB）全平台覆盖，使用sing-box内核，详见[说明文档]
-(https://matsuridayo.github.io/)，有插件可选。增添了很多实用功能，比较推荐
+|✅NekoBoxForAndroid|[下载](https://github.com/MatsuriDayo/NekoBoxForAndroid)| |[下载](https://play.google.com/store/apps/details?id=moe.nb4a)| |⭐资源占用较低（参考值：50.89MB）全平台覆盖，使用sing-box内核，详见[说明文档](https://matsuridayo.github.io/)，有插件可选。增添了很多实用功能，比较推荐
 |✅Matsuri|[下载](https://github.com/MatsuriDayo/Matsuri)| |[下载](https://play.google.com/store/apps/details?id=moe.matsuri.lite)| |⭐资源占用较低（参考值：50.64MB）和NB4A一个作者，为长期版本，可将节点添加到桌面
 
 - 1、大部分安卓手机，将应用商店的地区更改为境外地区后，可搜到上述软件
@@ -41,21 +40,20 @@
 
 | 软件 | 官网 | 备用 | 谷歌商店 | 备注 |
 | --- |  :----: |  :---:  |  :---:  | :--- |
-|Shadowrocket| | |[下载](https://play.google.com/store/apps/details?id=com.v2cross.proxy)|资源占用较高（参考值：98.24MB）<br>自带免费节点，可单独开热点，可单独用混淆
+|Shadowrocket| | |[下载](https://play.google.com/store/apps/details?id=com.v2cross.shadowrocket)|资源占用较高（参考值：98.24MB）<br>自带免费节点，可单独开热点，可单独用混淆
 |Kitsunebi|[下载](https://github.com/eycorsican/kitsunebi-android/releases)|[下载](https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android)|[下载](https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android&hl=zh_CN)| 
 |BifrostV|[下载](https://apkpure.com/cn/bifrostv/com.github.dawndiy.bifrostv)|[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/BifrostV.apk)|[下载](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)|
 |SagerNet|[下载](https://github.com/SagerNet/SagerNet/releases/)| |[下载](https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet)|类似v2rayng的软件，但是支持的协议比较多
 |Tinyproxy|[下载](https://tinyproxy.github.io)|[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/TinyProxy.apk)| |资源占用较高（参考值：98.24MB）<br>需代码，可单独用混淆，可单独开热点
 |Pharos Pro|[下载](https://github.com/PharosVip/Pharos-Android-Test/releases)| | | 
 |ssrray|[下载](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)| | |对免流设置和检测页面友好，资源占用较高（参考值：116MB）
-|Matsuri|[下载](https://github.com/MatsuriDayo/Matsuri/releases)| | | 
 |ClashAR|[下载](https://github.com/Qv2ray/Qv2ray)| | | 
 |ClashR|[下载](https://github.com/naicfeng/ClashRForAndroid/releases)| | | 
-|Shadowsocksr|[下载](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)| | |可单独用混淆
-|Shadowsocks|[下载](https://github.com/shadowsocks/shadowsocks-android/releases)| | |
-|igniter|[下载](https://github.com/trojan-gfw/igniter/releases)| | |专为Trojan协议的客户端
-|v2flyNG|[下载](https://github.com/2dust/v2flyNG/releases)| | |
-
+|Shadowsocksr|[下载](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)| |[下载](https://play.google.com/store/apps/details?id=com.hdev.shadowsocksr)|可单独用混淆，是协议，也有同名网站
+|Shadowsocks|[下载](https://github.com/shadowsocks/shadowsocks-android/releases)| |[下载](https://play.google.com/store/search?q=Shadowsocks&c=apps)|是协议，也有同名软件
+|igniter|[下载](https://github.com/trojan-gfw/igniter/releases)| |[下载](https://play.google.com/store/search?q=igniter&c=apps)|专为Trojan协议的客户端
+|v2flyNG|[下载](https://github.com/2dust/v2flyNG/releases)| | |和v2rayNG是同一个作者，是v2rayNG的付费版本
+|Trojan| | |[下载](https://play.google.com/store/apps/details?id=com.crosserr.trojan)|
 
 ---
 
@@ -68,8 +66,11 @@
 |VPN代理分享服务|[下载](https://play.google.com/store/apps/details?id=com.github.welldomax.proxyserver)|[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/VPN%E4%BB%A3%E7%90%86%E5%88%86%E4%BA%AB%E6%9C%8D%E5%8A%A1.apk)|有广告
 |VPN热点|[下载](https://play.google.com/store/apps/details?id=be.mygod.vpnhotspot)|[下载](https://github.com/Mygod/VPNHotspot/tree/master)|
 
-- 安卓端**v2RayNG**和**Tinyproxy**本身就可以开热点，clash premium版本也是可以的，端口自己设置，例如http、socks和混合端口都设置为6666
+- 安卓端软件大部分都可以直接开热点，IP、端口自己配置，例如http、socks和混合端口都设置为6666
 
-- 苹果端已知的Stash和Shadowrocket（统称小火箭），是可以直接开热点的。
+- 在GitHub和Google Play商店下载是最保险的，play商店是稳定版本，部分软件更新比较慢；GitHub上面是最新版本
 
-- Windouws电脑端的v2ray和clash也都是可以的，Mac端的软件部分也可以
+- 大部分软件的下载界面都会有```x86```、```arm64-v8a```、```armeabi-v7a```等字样，如果没有的或者不会区分直接下载安装包最大的，下面简单介绍各自类别的区别：
+  - ```x86```：Intel平台下的CPU版本，```x86_x64```是该平台下的64位版本
+  - ```armeabi-v7a```：Android平台32位操作系统，安卓7以下版本
+  - ```arm64-v8a```：Android平台64位操作系统，安卓8以上版本
