@@ -53,3 +53,4 @@
 |[Wallless](https://portal.wallless.xyz/#/login)|[光速云](http://gs188.one/auth/login)|
 |[薄荷7](https://my.bohe7.net/#/login)|[NSD Cloud](https://nsdcloud.net/)
 |[探索者](https://naiko.cloud)|[HotFun](https://yuzex.top/#/login)
+|[CCCloud](https://panel.cccloud.tk/#/plan)
