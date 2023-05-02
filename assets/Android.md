@@ -60,7 +60,7 @@
 ### **3、开热点软件** 📶
 
 | 软件 | 谷歌商店 | 备用 | 备注 
-| --- |  :----: |  :---:  |  :---: 
+| ---- | :------: | :---: | :---
 |Every Proxy|[下载](https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy)|[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/every%20proxy.apk)|⭐翻墙状态下打开，[限时下载](https://musetransfer.com/s/l981zg6hg)
 |手机代理服务器|[下载](https://play.google.com/store/apps/details?id=cn.adonet.proxyevery)|[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/%E6%89%8B%E6%9C%BA%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8.apk)
 |VPN代理分享服务|[下载](https://play.google.com/store/apps/details?id=com.github.welldomax.proxyserver)|[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/VPN%E4%BB%A3%E7%90%86%E5%88%86%E4%BA%AB%E6%9C%8D%E5%8A%A1.apk)|有广告
