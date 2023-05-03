@@ -52,7 +52,7 @@
 |Shadowsocksr|[下载](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)| |[下载](https://play.google.com/store/apps/details?id=com.hdev.shadowsocksr)|可单独用混淆，是协议，也有同名网站
 |Shadowsocks|[下载](https://github.com/shadowsocks/shadowsocks-android/releases)| |[下载](https://play.google.com/store/search?q=Shadowsocks&c=apps)|是协议，也有同名软件
 |igniter|[下载](https://github.com/trojan-gfw/igniter/releases)| |[下载](https://play.google.com/store/search?q=igniter&c=apps)|专为Trojan协议的客户端
-|v2flyNG|[下载](https://github.com/2dust/v2flyNG/releases)| | |和v2rayNG是同一个作者，是v2rayNG的付费版本
+|v2flyNG|[下载](https://github.com/2dust/v2flyNG/releases)| |[下载](https://play.google.com/store/apps/details?id=com.v2ray.v2fly)|和v2rayNG是同一个作者，是v2rayNG的付费版本
 |Trojan| | |[下载](https://play.google.com/store/apps/details?id=com.crosserr.trojan)|
 
 ---
