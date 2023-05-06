@@ -26,8 +26,9 @@
 |Kitsunebi|[链接直达](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073)|
 
 **其他免费代理/VPN软件**
-> 这里部分软件是VPN，部分软件是小众的代理软件。在此只做列举，不做任何推荐，对其实用性也不做保证；请使用者自行甄别。<br>
-> 这里提供的都是美国ID下载链接，通常情况下港区等也能打开；如果打不开，请自行搜索软件名
+- 这里部分软件是VPN，部分软件是小众的代理软件。在此只做列举，不做任何推荐，请使用者自行甄别。
+- 这里提供的都是美国ID下载链接，通常情况下港区等也能打开；如果打不开，请自行搜索软件名
+- 具体是否收费和使用体验如何，请使用者依据现实情况自行判断
 
 | 软件 | App Store直达 
 | --- | :---: |
@@ -40,6 +41,7 @@
 |FlyRouter|[链接直达](https://apps.apple.com/us/app/flyrouter/id1354248771) 
 |Potatso|[链接直达](https://apps.apple.com/us/app/potatso/id1239860606)
 |Outline|[链接直达](https://apps.apple.com/us/app/outline-app/id1356177741)
+|Kisunebi|[链接直达](https://apps.apple.com/us/app/outline-app/id1356177741)
 
 ## **2、Mac OS** 👩‍💻
 
