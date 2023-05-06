@@ -18,6 +18,7 @@
 |✅Qv2ray|[官网下载](https://github.com/Qv2ray/Qv2ray)
 |✅Mellow|[官网下载](https://github.com/mellow-io/mellow)
 |✅Clashy|[官网下载](https://github.com/SpongeNobody/Clashy/releases)
+|✅Outline|[官网下载](https://getoutline.org/zh-CN/)
 
 ## **2、路由器** 🌐
 
