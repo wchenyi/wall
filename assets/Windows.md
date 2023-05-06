@@ -29,14 +29,15 @@
 
 | 软件 | 官网 | 1年 | 备注 |
 | ----- |:-----:|:-----:|:-----|
-|✅ClashN|[下载](https://github.com/2dust/clashN/releases)| |⭐ 空间占用较小，zip解压安装，需额外下载[Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)运行环境|
-|✅v2ray-plugin|[下载](https://github.com/shadowsocks/v2ray-plugin)| |shadowsocks插件|
-|✅v2RayN(32位)|[下载](https://download.sakura-cat.club/directlink/1/v2rayN-v5.9.zip)|[下载](https://download.oneok.cloud/v2rayN-v5.9.zip)| |⭐32位，兼容性更好，适合老机器，可以结合[插件](https://proxy-switchyomega.com/download/)使用，zip解压安装，无需汉化
-|✅Qv2ray|[下载](https://github.com/Qv2ray/Qv2ray/releases)| |目前已停止维护，听说对win7支持比较好
-|✅Clash Verge|[下载](https://github.com/zzzgydi/clash-verge/releases)| | |Clash的变体，资源占用小，自定义皮肤，配置文件管理和增强
-|✅Shadowsocks|[下载](https://github.com/shadowsocks/shadowsocks-windows)| |支持ss插件的客户端
-|✅Netch|[下载](https://github.com/NetchX/Netch/releases)|[下载](https://d2.netfiles.pw/v2/windows/Netch-v1.9.2.7z)|体积小，全局代理效果好
-|✅nekoray|[下载](https://github.com/MatsuriDayo/nekoray/releases)| |全平台支持，有插件可选，不支持32位，win7以下不可用，详见[说明文档](https://matsuridayo.github.io/download/)
+|ClashN|[下载](https://github.com/2dust/clashN/releases)| |⭐ 空间占用较小，zip解压安装，需额外下载[Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)运行环境|
+|v2ray-plugin|[下载](https://github.com/shadowsocks/v2ray-plugin)| |shadowsocks插件|
+|v2RayN(32位)|[下载](https://download.sakura-cat.club/directlink/1/v2rayN-v5.9.zip)|[下载](https://download.oneok.cloud/v2rayN-v5.9.zip)| |⭐32位，兼容性更好，适合老机器，可以结合[插件](https://proxy-switchyomega.com/download/)使用，zip解压安装，无需汉化
+|Qv2ray|[下载](https://github.com/Qv2ray/Qv2ray/releases)| |目前已停止维护，听说对win7支持比较好
+|Clash Verge|[下载](https://github.com/zzzgydi/clash-verge/releases)| | |Clash的变体，资源占用小，自定义皮肤，配置文件管理和增强
+|Shadowsocks|[下载](https://github.com/shadowsocks/shadowsocks-windows)| |支持ss插件的客户端
+|Netch|[下载](https://github.com/NetchX/Netch/releases)|[下载](https://d2.netfiles.pw/v2/windows/Netch-v1.9.2.7z)|体积小，全局代理效果好
+|nekoray|[下载](https://github.com/MatsuriDayo/nekoray/releases)| |全平台支持，有插件可选，不支持32位，win7以下不可用，详见[说明文档](https://matsuridayo.github.io/download/)
+|Clash.Net|[下载](https://github.com/V2RaySSR/Clash.Net/releases)| |依赖于 ```.Net``` 运行的轻量级Clash，原生支持中文，目前已经删库，列出最后一版下载地址
 
 ---
 
