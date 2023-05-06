@@ -47,13 +47,14 @@
 |Tinyproxy|[下载](https://tinyproxy.github.io)|[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/TinyProxy.apk)| |资源占用较高（参考值：98.24MB）<br>需代码，可单独用混淆，可单独开热点
 |Pharos Pro|[下载](https://github.com/PharosVip/Pharos-Android-Test/releases)| | | 
 |ssrray|[下载](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)| | |对免流设置和检测页面友好，资源占用较高（参考值：116MB）
+|ClashA[官网](https://github.com/ccg2018/ClashA/releases)| | |已停止更新，已有各版本仍可使用
 |ClashAR|[下载](https://github.com/Qv2ray/Qv2ray)| | | 
 |ClashR|[下载](https://github.com/naicfeng/ClashRForAndroid/releases)| | | 
 |Shadowsocksr|[下载](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)| |[下载](https://play.google.com/store/apps/details?id=com.hdev.shadowsocksr)|可单独用混淆，是协议，也有同名网站
 |Shadowsocks|[下载](https://github.com/shadowsocks/shadowsocks-android/releases)| |[下载](https://play.google.com/store/search?q=Shadowsocks&c=apps)|是协议，也有同名软件
 |igniter|[下载](https://github.com/trojan-gfw/igniter/releases)| |[下载](https://play.google.com/store/search?q=igniter&c=apps)|专为Trojan协议的客户端
 |v2flyNG|[下载](https://github.com/2dust/v2flyNG/releases)| |[下载](https://play.google.com/store/apps/details?id=com.v2ray.v2fly)|和v2rayNG是同一个作者，是v2rayNG的付费版本
-|Trojan| | |[下载](https://play.google.com/store/apps/details?id=com.crosserr.trojan)|
+|Trojan| | |[下载](https://play.google.com/store/apps/details?id=com.crosserr.trojan)|是协议，也有同名软件
 
 ---
 
