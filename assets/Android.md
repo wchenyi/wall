@@ -47,7 +47,7 @@
 |Tinyproxy|[下载](https://tinyproxy.github.io)|[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/TinyProxy.apk)| |资源占用较高（参考值：98.24MB）<br>需代码，可单独用混淆，可单独开热点
 |Pharos Pro|[下载](https://github.com/PharosVip/Pharos-Android-Test/releases)| | | 
 |ssrray|[下载](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)| | |对免流设置和检测页面友好，资源占用较高（参考值：116MB）
-|ClashA[官网](https://github.com/ccg2018/ClashA/releases)| | |已停止更新，已有各版本仍可使用
+|ClashA|[官网](https://github.com/ccg2018/ClashA/releases)| | |已停止更新，已有各版本仍可使用
 |ClashAR|[下载](https://github.com/Qv2ray/Qv2ray)| | | 
 |ClashR|[下载](https://github.com/naicfeng/ClashRForAndroid/releases)| | | 
 |Shadowsocksr|[下载](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)| |[下载](https://play.google.com/store/apps/details?id=com.hdev.shadowsocksr)|可单独用混淆，是协议，也有同名网站
