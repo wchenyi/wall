@@ -41,7 +41,7 @@
 |FlyRouter|[链接直达](https://apps.apple.com/us/app/flyrouter/id1354248771) 
 |Potatso|[链接直达](https://apps.apple.com/us/app/potatso/id1239860606)
 |Outline|[链接直达](https://apps.apple.com/us/app/outline-app/id1356177741)
-|Kisunebi|[链接直达](https://apps.apple.com/us/app/outline-app/id1356177741)
+|Kitsunebi|[链接直达](https://apps.apple.com/us/app/outline-app/id1356177741)
 
 ## **2、Mac OS** 👩‍💻
 
