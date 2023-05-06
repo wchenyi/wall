@@ -19,6 +19,7 @@
 |✅Mellow|[官网下载](https://github.com/mellow-io/mellow)
 |✅Clashy|[官网下载](https://github.com/SpongeNobody/Clashy/releases)
 |✅Outline|[官网下载](https://getoutline.org/zh-CN/)
+|✅Trojan-qt5|[下载]()
 
 ## **2、路由器** 🌐
 
