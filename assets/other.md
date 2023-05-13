@@ -16,6 +16,7 @@
 |软件名 |下载地址|
 | ------ | :---: |
 |✅Qv2ray|[下载](https://github.com/Qv2ray/Qv2ray)
+|✅v2rayL|[下载](https://github.com/jiangxufeng/v2rayL/releases)
 |✅Mellow|[下载](https://github.com/mellow-io/mellow)
 |✅Clashy|[下载](https://github.com/SpongeNobody/Clashy/releases)
 |✅Outline|[下载](https://getoutline.org/zh-CN/)
