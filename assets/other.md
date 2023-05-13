@@ -15,11 +15,12 @@
 
 |软件名 |下载地址|
 | ------ | :---: |
-|✅Qv2ray|[官网下载](https://github.com/Qv2ray/Qv2ray)
-|✅Mellow|[官网下载](https://github.com/mellow-io/mellow)
-|✅Clashy|[官网下载](https://github.com/SpongeNobody/Clashy/releases)
-|✅Outline|[官网下载](https://getoutline.org/zh-CN/)
+|✅Qv2ray|[下载](https://github.com/Qv2ray/Qv2ray)
+|✅Mellow|[下载](https://github.com/mellow-io/mellow)
+|✅Clashy|[下载](https://github.com/SpongeNobody/Clashy/releases)
+|✅Outline|[下载](https://getoutline.org/zh-CN/)
 |✅Trojan-qt5|[下载]()
+|✅Nekoray|[下载](https://github.com/MatsuriDayo/nekoray/releases)
 
 ## **2、路由器** 🌐
 
