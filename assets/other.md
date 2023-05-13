@@ -22,6 +22,14 @@
 |✅Trojan-qt5|[下载]()
 |✅Nekoray|[下载](https://github.com/MatsuriDayo/nekoray/releases)
 
+### **1.1 Trojan客户端**
+
+|软件名 |下载地址|
+| ------ | :---: |
+|v2rayA|[下载](https://github.com/v2rayA/v2rayA/releases)
+|Trojan-Qt5|[下载](https://itlanyan.com/download.php?filename=/trojan/Trojan-Qt5-v1.4.0.7z)
+
+
 ## **2、路由器** 🌐
 
 > 路由器这块我没有玩过，所以提供的内容可能不够完整，提供的下载链接也可能不够属实，请使用者自行甄别
