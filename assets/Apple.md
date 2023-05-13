@@ -52,8 +52,9 @@
 |✅Surge for Mac|[下载](https://nssurge.com)|
 |✅Clash Verge|[下载](https://github.com/zzzgydi/clash-verge/releases)|
 |✅Qv2ray|[下载](https://github.com/Qv2ray/Qv2ray/releases)|
+|✅v2rayU|[下载](https://github.com/yanue/V2rayU/releases)|
+|✅V2rayX|[下载](https://github.com/yanue/V2rayU/releases)|
 |✅ShadowsocksX-NG|[下载](https://github.com/shadowsocks/ShadowsocksX-NG/releases)|
-|✅V2rayU|[下载](https://github.com/yanue/V2rayU/releases)|
 |✅ShadowsocksX-NG-R|[下载](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)|
 |✅Nekoray-MacOS|[下载](https://github.com/aaaamirabbas/nekoray-macos/releases)
 
