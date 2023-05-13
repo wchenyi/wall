@@ -54,7 +54,8 @@
 |✅Qv2ray|[下载](https://github.com/Qv2ray/Qv2ray/releases)|
 |✅ShadowsocksX-NG|[下载](https://github.com/shadowsocks/ShadowsocksX-NG/releases)|
 |✅V2rayU|[下载](https://github.com/yanue/V2rayU/releases)|
-|✅ShadowsocksX-NG-R|[下载](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)| 
+|✅ShadowsocksX-NG-R|[下载](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)|
+|✅Nekoray-MacOS|[下载](https://github.com/aaaamirabbas/nekoray-macos/releases)
 
 ## **3、特别提醒**
 - 1、大陆地区的Apple ID无法找到此软件，需要在[ID管理界面](https://appleid.apple.com/#!&page=signin)切换成成港区、美区等；地址信息可以参考[美国地址生成器](https://mp.weixin.qq.com/s/vLXUSlLgiddAmNbcQk0tAg),或者自行寻找真实的非大陆国家、地区地址。
