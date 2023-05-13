@@ -41,6 +41,14 @@
 |ClashWeb|[下载](https://merlinblog.xyz/wiki/clashweb.html)|[下载](https://musetransfer.com/s/pz5iwhxzb)|轻量级Clash，```withoutPython``` 版本依赖```Python```环境，基本操作同CFW
 
 
+### **2.1 Trojan-Windows客户端**
+
+| 软件 | 下载 | 备注 |
+| ---- |:---:|:----|
+|WinXray|[下载](https://itlanyan.com/download.php?filename=/v2/windows/winXray-v3.7.7z)|[使用教程](https://v2xtls.org/xray专属客户端winxray使用教程/)|
+|Trojan-Qt5|[下载](https://itlanyan.com/download.php?filename=/trojan/Trojan-Qt5-v1.4.0.exe)|[使用教程](https://itlanyan.com/go.php?key=trojan-qt5-config)|
+|Trojan-win|[下载](https://github.com/trojan-gfw/trojan/releases)|[使用教程](https://itlanyan.com/go.php?key=trojan-win-config)|
+
 ---
 
 ## **3、基于“chromium”内核的浏览器插件翻墙** 💾
