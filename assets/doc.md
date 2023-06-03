@@ -55,3 +55,6 @@
 
 ### [Airport](https://wangcy.tk/wall/assets/Airport)
 > 个人使用笔记整理
+
+### [法律问题](https://mp.weixin.qq.com/s/cndzW_oXClkSdwOtam0qUw)
+> 这些行为是否合法？
