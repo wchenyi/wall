@@ -21,12 +21,12 @@
 | 软件 | 官网 | 1年 | 谷歌商店 | 备用 | 备注 |
 | ---- | :--: | :--: | :----: | :---: | :--- |
 |✅Clash For  Android|[下载](https://github.com/Kr328/ClashForAndroid/releases)|[下载](https://musetransfer.com/s/tjxntt1jg)|[下载](https://play.google.com/store/search?q=clash&c=apps&hl=zh_CN)|[下载](https://d3.netfiles.pw/v2/android/ClashForAndroid-v2.5.4.apk)|⭐资源占用较低（参考值：27.58MB）<br>高阶操作需配置代码，可单独开热点，不可单独混淆
-|✅v2RayNG|[下载](https://github.com/2dust/v2rayNG/releases)|[下载](https://musetransfer.com/s/nzln2lirr)|[下载](https://play.google.com/store/search?q=v2ray&c=apps&hl=zh_CN)|[下载](https://d3.netfiles.pw/v2/android/v2rayNG-v1.7.3.apk)|⭐资源占用较高（参考值：60.23MB）<br>高阶操作无需代码，可单独开热点（鸿蒙系统热点可能有Bug，可以使用oneclick或者Matsuri），可单独混淆
-|✅SurfBoard|[下载](https://github.com/getsurfboard/surfboard)|[下载](https://musetransfer.com/s/t63osvynl)|[下载](https://play.google.com/store/apps/details?id=com.getsurfboard&hl=zh_CN)|[文档](https://manual.getsurfboard.com)|⭐资源占用较低（参考值：46.01MB）<br>高阶操作无需代码，可单独开热点，不可单独混淆
+|✅v2RayNG|[下载](https://github.com/2dust/v2rayNG/releases)|[下载](https://musetransfer.com/s/v0wkqyqns)|[下载](https://play.google.com/store/search?q=v2ray&c=apps&hl=zh_CN)|[下载](https://d3.netfiles.pw/v2/android/v2rayNG-v1.7.3.apk)|⭐资源占用较高（参考值：60.23MB）<br>高阶操作无需代码，可单独开热点（鸿蒙系统热点可能有Bug，可以使用oneclick或者Matsuri），可单独混淆
+|✅SurfBoard|[下载](https://github.com/getsurfboard/surfboard)|[下载](https://musetransfer.com/s/ku2nqb0oc)|[下载](https://play.google.com/store/apps/details?id=com.getsurfboard&hl=zh_CN)|[文档](https://manual.getsurfboard.com)|⭐资源占用较低（参考值：46.01MB）<br>高阶操作无需代码，可单独开热点，不可单独混淆
 |✅OneClick|[下载](https://oneclick.earth/#/)| |[下载](https://play.google.com/store/apps/details?id=earth.oneclick)| |⭐资源占用较低（参考值：57.45MB）<br>苹果和安卓端都有此软件、免费，可单独开热点
-|✅NekoBoxForAndroid|[下载](https://github.com/MatsuriDayo/NekoBoxForAndroid)| |[下载](https://play.google.com/store/apps/details?id=moe.nb4a)| |⭐资源占用较低（参考值：50.89MB）全平台覆盖，使用sing-box内核，详见[说明文档](https://matsuridayo.github.io/)，有插件可选。增添了很多实用功能，比较推荐
-|✅Matsuri|[下载](https://github.com/MatsuriDayo/Matsuri)| |[下载](https://play.google.com/store/apps/details?id=moe.matsuri.lite)| |⭐资源占用较低（参考值：50.64MB）和NB4A一个作者，为长期版本，可将节点添加到桌面
-|✅ClashMeta|[下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)| |[下载](https://play.google.com/store/apps/details?id=com.github.metacubex.clash.meta)| |在ClashForAndroid超过半年不更新之后，新兴的Clash客户端，支持多平台
+|✅NekoBoxForAndroid|[下载](https://github.com/MatsuriDayo/NekoBoxForAndroid)|[下载](https://musetransfer.com/s/xjjvpstom)|[下载](https://play.google.com/store/apps/details?id=moe.nb4a)| |⭐资源占用较低（参考值：50.89MB）全平台覆盖，使用sing-box内核，详见[说明文档](https://matsuridayo.github.io/)，有插件可选。增添了很多实用功能，比较推荐
+|✅Matsuri|[下载](https://github.com/MatsuriDayo/Matsuri)|[下载](https://musetransfer.com/s/24ts2i5n1)|[下载](https://play.google.com/store/apps/details?id=moe.matsuri.lite)| |⭐资源占用较低（参考值：50.64MB）和NB4A一个作者，为长期版本，可将节点添加到桌面
+|✅ClashMeta|[下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)|[下载](https://musetransfer.com/s/lr9n3kkop)|[下载](https://play.google.com/store/apps/details?id=com.github.metacubex.clash.meta)| |在ClashForAndroid超过半年不更新之后，新兴的Clash客户端，支持多平台
 
 - 1、大部分安卓手机，将应用商店的地区更改为境外地区后，可搜到上述软件
 
