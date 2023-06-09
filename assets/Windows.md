@@ -21,7 +21,7 @@
 | 软件 | 官网 | 1年 | 备用 | 备注 |
 | ----------------- | :-----------:|:-----------: |:-----------: |:-----------|
 |✅Clash For Windows|[下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)|[下载](https://musetransfer.com/s/a9vq1xwmr)|[下载](https://d3.netfiles.pw/v2/windows/Clash.for.Windows.Setup.0.19.15.exe)|⭐ 界面美观操作简便，占用空间较大，官网下载需自行[安装汉化](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
-|✅v2RayN-Core|[下载](https://github.com/2dust/v2rayN/releases)|[下载](https://musetransfer.com/s/n80fwodm1)|[下载](https://d2.netfiles.pw/v2/windows/v2rayN-v5.9.zip)|⭐小白操作，空间占用小，zip解压安装，无需汉化，不支持ss插件，[旧版](https://musetransfer.com/s/zdjyphvom)
+|✅v2RayN-Core|[下载](https://github.com/2dust/v2rayN/releases)|[下载](https://musetransfer.com/s/nbkm0hotn)|[下载](https://d2.netfiles.pw/v2/windows/v2rayN-v5.9.zip)|⭐小白操作，空间占用小，zip解压安装，无需汉化，不支持ss插件，[旧版](https://musetransfer.com/s/zdjyphvom)
 
 ---
 
