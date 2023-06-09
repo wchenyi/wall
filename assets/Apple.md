@@ -48,6 +48,7 @@
 | 软件 |官网|备用下载
 | --- | :----: | :---: 
 |✅ClashX|[下载](https://github.com/yichengchen/clashX/releases)|[下载](https://d2.netfiles.pw/v2/macos/ClashX-Pro-v1.70.0.2.dmg)
+|✅ClashXMeta|[下载](https://github.com/MetaCubeX/ClashX.Meta)
 |✅Stash|[下载](https://stash.ws)|
 |✅Surge for Mac|[下载](https://nssurge.com)|
 |✅Clash Verge|[下载](https://github.com/zzzgydi/clash-verge/releases)|
