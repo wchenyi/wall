@@ -57,7 +57,8 @@
 |✅V2rayX|[下载](https://github.com/yanue/V2rayU/releases)|
 |✅ShadowsocksX-NG|[下载](https://github.com/shadowsocks/ShadowsocksX-NG/releases)|
 |✅ShadowsocksX-NG-R|[下载](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)|
-|✅Nekoray-MacOS|[下载](https://github.com/aaaamirabbas/nekoray-macos/releases)
+|✅Nekoray-MacOS|[下载](https://github.com/aaaamirabbas/nekoray-macos/releases)|
+|✅ClasjVerge|[下载](https://github.com/zzzgydi/clash-verge/releases)|
 
 ### **2.1 Trojan客户端**
 
