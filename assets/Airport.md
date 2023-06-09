@@ -55,7 +55,7 @@
 |[Duang-Cloud](https://portal.duangcloud.xyz)|[蚯蚓机场](http://qiuyin.me/)|[STC-SPADES](https://www2.gardenparty.me/)
 |[Socloud](https://socloud.me/auth/register)|[忍者云](https://renzhe.cloud/auth/login#%23)|[Nexitally](https://nexitally.com/?language=cn)
 |[薄荷7](https://my.bohe7.net/#/login)|[NSD Cloud](https://nsdcloud.net/)|[探索者](https://naiko.cloud)|
-|[HotFun](https://yuzex.top/#/login)|[CCCloud](https://panel.cccloud.tk/#/plan)
+|[HotFun](https://yuzex.top/#/login)|[CCCloud](https://panel.cccloud.tk/#/plan)|[桃花源](https://ssthy.us/auth/register)
 
 # 3、合租&购买
 
