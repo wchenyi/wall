@@ -22,6 +22,7 @@
 |✅Outline|[下载](https://getoutline.org/zh-CN/)
 |✅Trojan-qt5|[下载]()
 |✅Nekoray|[下载](https://github.com/MatsuriDayo/nekoray/releases)
+|✅ClashMeta|[下载](https://github.com/MetaCubeX/Clash.Meta/releases)
 
 ### **1.1 Trojan客户端**
 
