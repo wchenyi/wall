@@ -44,7 +44,7 @@
 |[一元机场](https://xn--4gq62f52gdss.com/#/login)|延迟高，便宜量大，但垃圾|
 |[一日机场](http://airport.lianpi.xyz/#/login)|坑|
 |[赔钱机场](https://baidu.com)|真赔钱，倍率高，延迟高，节点大部分不能用|
-|[StarDream](https://pigeon-cloud.one/#/login)|
+|[StarDream](https://pigeon-cloud.one/#/login)|节点以倍率区分，初步测试延迟较低，多为主要国家
 
 ---
 
