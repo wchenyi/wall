@@ -40,8 +40,8 @@
 |nekoray|[下载](https://github.com/MatsuriDayo/nekoray/releases)| |全平台支持，有插件可选，不支持32位，win7以下不可用，详见[说明文档](https://matsuridayo.github.io/download/)
 |Clash.Net|[下载](https://github.com/V2RaySSR/Clash.Net/releases)| |依赖于 ```.Net``` 运行的轻量级Clash，原生支持中文，目前已经删库，列出最后一版下载地址
 |ClashWeb|[下载](https://merlinblog.xyz/wiki/clashweb.html)|[下载](https://musetransfer.com/s/pz5iwhxzb)|轻量级Clash，```withoutPython``` 版本依赖```Python```环境，基本操作同CFW
-|ClashMeta|[下载](https://github.com/MetaCubeX/Clash.Meta/releases)
-
+|ClashMeta|[下载](https://github.com/MetaCubeX/Clash.Meta/releases)| | |
+|Clash Multiplatform|[下载](https://t.me/c/1834195052/41)||cfa作者制作的多平台clash代理软件，目前仍在测试阶段|
 
 ### **2.1 Trojan-Windows客户端**
 
