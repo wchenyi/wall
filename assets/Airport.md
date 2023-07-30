@@ -45,7 +45,7 @@
 |[一日机场](http://airport.lianpi.xyz/#/login)|坑|
 |[赔钱机场](https://baidu.com)|真赔钱，倍率高，延迟高，节点大部分不能用|
 |[StarDream](https://pigeon-cloud.one/#/login)|倍率区分，延迟一般，多为主要国家，有直连节点，中规中矩
-[忍者云](https://renzhe.cloud/auth/login#%23)|基础套餐限制速率，
+[忍者云](https://renzhe.cloud/auth/login#%23)|基础套餐限制速率，订阅区分SS和SSR，有专线
 
 ---
 
