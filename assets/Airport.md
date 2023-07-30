@@ -45,6 +45,7 @@
 |[一日机场](http://airport.lianpi.xyz/#/login)|坑|
 |[赔钱机场](https://baidu.com)|真赔钱，倍率高，延迟高，节点大部分不能用|
 |[StarDream](https://pigeon-cloud.one/#/login)|倍率区分，延迟一般，多为主要国家，有直连节点，中规中矩
+[忍者云](https://renzhe.cloud/auth/login#%23)|基础套餐限制速率，
 
 ---
 
@@ -54,7 +55,7 @@
 | :----:|:-----:|:----:|
 |[海豚湾](https://cdn77.manage.hitun.io/)|[STC-SERVER](https://mqk4azjxg8skg6gfelpb.stcserver-cloud.com/auth/register)|[MAYING](https://www.myjs.tw/)|
 |[Duang-Cloud](https://portal.duangcloud.xyz)|[蚯蚓机场](http://qiuyin.me/)|[STC-SPADES](https://www2.gardenparty.me/)
-|[Socloud](https://socloud.me/auth/register)|[忍者云](https://renzhe.cloud/auth/login#%23)|[Nexitally](https://nexitally.com/?language=cn)
+|[Socloud](https://socloud.me/auth/register)| |[Nexitally](https://nexitally.com/?language=cn)
 |[薄荷7](https://my.bohe7.net/#/login)|[NSD Cloud](https://nsdcloud.net/)|[探索者](https://naiko.cloud)|
 |[HotFun](https://yuzex.top/#/login)|[CCCloud](https://panel.cccloud.tk/#/plan)|[桃花源](https://ssthy.us/auth/register)
 
