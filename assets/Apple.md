@@ -42,6 +42,9 @@
 |Potatso|[链接直达](https://apps.apple.com/us/app/potatso/id1239860606)
 |Outline|[链接直达](https://apps.apple.com/us/app/outline-app/id1356177741)
 |Kitsunebi|[链接直达](https://apps.apple.com/us/app/outline-app/id1356177741)
+|Xurge|[链接直达](https://apps.apple.com/hk/app/xurge-unofficial-surge-helper/id1525585898)
+|Loon|[链接直达](https://apps.apple.com/hk/app/loon/id1373567447)
+|Loon-lite|[链接直达](https://apps.apple.com/hk/app/loon-lite/id6444029612)
 
 ## **2、Mac OS** 👩‍💻
 
