@@ -2,7 +2,7 @@
 <!-- logo -->
 <p align="center">
     <a href="https://wangcy.tk" alt="Wangcy Logo">
-    <img src="https://wangcy.tk/wall/" height="173"/></a>
+    <img src="https://pomf2.lain.la/f/0nct6hx.png" height="173"/></a>
 </p>
 
 
