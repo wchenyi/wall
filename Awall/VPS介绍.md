@@ -18,24 +18,21 @@
         2. status 应用——查看某个应用的状态
         3. ufw disable——关闭Ubuntu的防火墙，本机外围防火墙≠GFW
     
-    ![](https://wangcy.cf/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F1fca0d64-0101-4a0a-b1de-265672f82e67%2FUntitled.png?id=0c7e562c-75f3-40d6-9430-128710b49bdc&table=block&spaceId=05a1b89d-ff84-4035-bdc6-863a0fae0b47&width=1530&userId=&cache=v2)
+    ![](https://pomf2.lain.la/f/hb4lfl27.jpg)
     
-    ![](https://wangcy.cf/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff24e3e99-2b39-4dbe-a4ae-1d3abd93ccb9%2FUntitled.png?id=db3ae125-65de-4fb8-b05c-bf0be615f372&table=block&spaceId=05a1b89d-ff84-4035-bdc6-863a0fae0b47&width=1530&userId=&cache=v2)
+    ![](https://pomf2.lain.la/f/idecmr1.png)
     
     > 本文的介绍基于**Ubuntu**操作系统，后期会加上**X-UI**
-    > 
-    
 
 # 2、配置
 
-![](https://wangcy.cf/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2eb4ac86-fd89-474f-bf06-a59e4327e5ae%2F%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE_2023-01-19_222836.jpg?id=c4afefc0-acd3-4f6b-bf2f-98623ba5cdd3&table=block&spaceId=05a1b89d-ff84-4035-bdc6-863a0fae0b47&width=1530&userId=&cache=v2)
+![](https://pomf2.lain.la/f/hb4lfl27.jpg)
 
 > 在SSH工具上配置好购买的VPS的IP和用户名（通常为root）、密码
-> 
 
-![](https://wangcy.cf/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa9659147-0654-42c0-a3a3-812784a24f77%2FUntitled.png?id=79ea38cf-2de2-4db8-94cf-d36aac64d36c&table=block&spaceId=05a1b89d-ff84-4035-bdc6-863a0fae0b47&width=1030&userId=&cache=v2)
+![](https://pomf2.lain.la/f/idecmr1.png)
 
-![](https://wangcy.cf/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F1973e81b-b9e3-4359-bd28-3604b0ac76d8%2FUntitled.png?id=4d1b84d3-83df-43c4-8170-5f4676a9c81f&table=block&spaceId=05a1b89d-ff84-4035-bdc6-863a0fae0b47&width=1530&userId=&cache=v2)
+![](https://pomf2.lain.la/f/ss46dioh.png)
 
 # 3、加密方法
 
