@@ -7,7 +7,7 @@
 
 # 1、线路-CDN
 
-![](https://wangcy.cf/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8483d857-64d9-4207-adde-0182e6cb8945%2FUntitled.png?id=0fbd6218-18af-45f5-a469-736cf8f88079&table=block&spaceId=05a1b89d-ff84-4035-bdc6-863a0fae0b47&width=1120&userId=&cache=v2)
+![](https://pomf2.lain.la/f/flwcw6gp.png)
 
 - 因为要跳跳跳所以需要优化线路
 - 在这里直接安装X-ui图形化操作页面（记住ufw disable）
@@ -22,15 +22,14 @@
 
 # 2、CloudFlare
 
-![](https://wangcy.cf/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3c984d4d-0f6a-43da-bf9c-dd70f0dee586%2FUntitled.png?id=26334370-3771-4f96-b5b1-c172e412c1c6&table=block&spaceId=05a1b89d-ff84-4035-bdc6-863a0fae0b47&width=1530&userId=&cache=v2)
+![](https://pomf2.lain.la/f/a82v602w.png)
 
-![](https://wangcy.cf/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3c984d4d-0f6a-43da-bf9c-dd70f0dee586%2FUntitled.png?id=26334370-3771-4f96-b5b1-c172e412c1c6&table=block&spaceId=05a1b89d-ff84-4035-bdc6-863a0fae0b47&width=1530&userId=&cache=v2)
+![](https://pomf2.lain.la/f/pfldc72p.png)
 
 > IPv4就是自己的vps地址，没开代理就是没套CDN
 开了之后就已经套用了，测试ping不是自己的vpsip是正常的
-> 
 
-![](https://wangcy.cf/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F85a3ae90-635b-4e40-b8b0-15a9b41300df%2FUntitled.png?id=78d65a0e-b541-4a64-8ac2-357a5b0fa28f&table=block&spaceId=05a1b89d-ff84-4035-bdc6-863a0fae0b47&width=1530&userId=&cache=v2)
+![](https://pomf2.lain.la/f/xu3c80aj.png)
 
 # 3、CDN的作用
 
@@ -46,4 +45,18 @@
 
 # 4、修改CDN
 
-![](https://wangcy.cf/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2ffd7c70-d9b0-404d-a477-86e82f8f3797%2FUntitled.png?id=5eb1ac7a-8ce5-4999-a755-459c58d54de5&table=block&spaceId=05a1b89d-ff84-4035-bdc6-863a0fae0b47&width=1530&userId=&cache=v2)
+![](https://pomf2.lain.la/f/v3j30ecp.png)
+
+# 5、线路术语
+
+- IPLC: “International Private Leased Circuit"的缩写，即“国际专线”。不过大部分机场通常看到的 iplc，都只是阿里的经典网络，跨数据中心内网互通，阿里内网，并不是严格意义的 iplc 专线；当然也有其他渠道的，或真 iplc，不过比较少。阿里云的内网互通底层原理是通过采购多个点对点的 iplc 专线，来连接各个数据中心，从而把各个数据中心纳入到自己的一套内网里面来。这样做有两个好处，其一是 iplc 链路上的带宽独享，完全不受公网波动影响，其二是过境的时候不需要经过 GFW，确保了数据安全且不受外界各种因素干扰。但是需要注意一下阿里云的 iplc 也是有带宽上限的，如果过多的人同时挤到同一条专线上，峰值带宽超过专线的上限的话也同样会造成网络不稳定。其他渠道购买到的 iplc 价格很高，阿里云内网这种性价比超高这种好东西且用且珍惜。
+- IEPL 国际以太网专线（International Ethernet Private Line,简称 IEPL)，构建于 MSTP 设备平台上，基于 SDH 传输技术，采用 GFP 封装，传输协议透明，物理层隔离，带宽保证，提供一层点对点数据专线服务。IEPL 是以太网接口的增强型的 IPLC 产品，是一个端到端的专享管理频宽服务，拥有高度灵活性及最高物理层网络安全功能，让客户轻松管理广域网和高带宽需求的应用。通俗的总结一下，IEPL 使用某种技术，实现了两点之间的高稳定性的数据传输。这与 IPLC,MPLS 是差不多的效果，只是实现的技术手段有区别而已。其实对机场来说，是 IPLC 或者 IEPL 或是 MPLS-VPN，都没有太大区别。认定是保障带宽的不过墙专线就行了，至于是用哪种技术方案实现的，根本不需要纠结。
+- BGP：BGP 的实际意思通常是一个 IP 在多个运营商的网络中均为直连，不经过第三运营商，利用 iptables 或相关软件通过将去海外 VPS 的流量加一层国内转发。不过不同机场的定义也不一样。正常来说比如 rixcloud，指的是他们入口是阿里云、部分落地节点是自己起了 BGP（去 Peer 了 GitHub、微软、Cloudflare 等等）。不过多数机场把 BGP 定义为阿里云公网中转等。
+- 中转：将数据从一个服务器重定向到另外一个服务器。机场中比较常见的是阿里云公网中转，其实也有很多其他中转，也有自己去买其他的 BGP 来中转的。
+- 原生 IP」：所谓原生 IP 通常意思为当地运营商原本就拥有的 IP；广播国家一般和注册国家相同（一般的 IP 库不会误判地区），一般不用于公有云计算服务或 IP 声誉好，一般能够用来解锁 Netflix、HBO、Hulu 以及其它有限制的流媒体服务
+- 流媒体解锁：很多流媒体服务平台如 Netflix 会出于版权原因而限制一些特定 IP 的访问。一般来说网络运营商（如 HKT）自己持有的 IP，比如商宽、家宽，极少被屏蔽，因为这些 IP 大多是流媒体服务商的目标客户在使用。家宽 IP 被屏蔽的几率是最低的，很多 ISP 的家宽都是动态 IP 的，很难精准封杀。固定 IP 的商宽其次。这些流媒体服务商也怕误杀导致投诉，比如 GCP 的 IP 段被投诉之后又可以看 Netflix 了。IDC 商家所持有的 IP 一般会被屏蔽，越大越有名的 IDC 持有的 IP 被屏蔽的几率越高。很多 IDC 会租用运营商的 IP 从而绕过此类封杀，但是这种方式并不是万无一失的，翻车案例比较多我就不再一一例举了。所以除非是商宽、家宽，其他所谓的“原生 IP 解锁流媒体”都是有几率翻车的。
+- CN2:是电信的精品骨干网。首先 CN2 是一张运营商骨干网，就像电信 163、中国移动这一类是同样性质的东西，但相对电信 163 来说会有更好的稳定性。不是什么专线（和 iplc 那类东西区分清楚）。既然是公网，那它本质上就是个很多人共享使用的东西。共享的东西都存在一定程度的不稳定性。区别在于它的超售比较低，相对电信 163 来说会有更好的质量。CN2 的跨国数据通讯也需要经过 GFW 审查，不存在不过 GFW 的公网。
+
+# 6、其他
+
+- 自建服务器需要投入很大成本，你要优化线路，负载均衡，搞各种协议，最重要的问题是成本。你手上没有优质线路，那些优质线路要么就是从中国那三家营业厅买的，要么就是关系好给的，自己也能去海豚湾等渠道买，总之性价比不高，长期玩没有技术容易被搞。区别于付费的VPN就是你只买它们做好的节点线路，具体流量信息一般（除非你被植入证书抓包）不受它们的监控，你们互相独立。
