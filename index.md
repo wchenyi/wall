@@ -2,7 +2,7 @@
 <!-- logo -->
 <p align="center">
     <a href="https://wangcy.tk" alt="Wangcy Logo">
-    <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9896bb2e-d7f9-41ac-a4e6-5f9ac2d2f652%2FWCY%E7%9A%84%E4%B8%AA%E4%BA%BAlogo.png?table=block&id=e714d3e8-f158-486c-87e0-baa42b87f805" height="173"/></a>
+    <img src="https://wangcy.tk/wall/" height="173"/></a>
 </p>
 
 
