@@ -40,7 +40,7 @@
 
 **本地PC➡️**本地互联网出口**➡️**骨干网**➡️**DNS域名解析器**➡️目标服务器➡️**（同样的流程返回）**本地PC**
 
-![](https://wangcy.cf/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5a185a60-acc8-424d-906e-f631544f360e%2F04C4BE58-716F-43EB-89F7-230C553F5F96.jpeg?id=7a3e0f28-4dd7-42d0-a22d-1107c358e293&table=block&spaceId=05a1b89d-ff84-4035-bdc6-863a0fae0b47&width=1530&userId=&cache=v2)
+![](https://pomf2.lain.la/f/11wjhdpk.jpg)
 
 **术语解释**
 
@@ -56,7 +56,7 @@
 
 **本地PC➡️**本地互联网出口**➡️**骨干网**➡️GFW进行审查是否传输给DNS服务器**
 
-![](https://wangcy.cf/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F72c0ebcf-f1e4-47d2-ac58-8e9c6e6c5580%2FFE6B5B00-47A9-4C13-BEFC-0AC2EAABF334.jpeg?id=06657507-bc9b-433d-ac15-d4721fecb621&table=block&spaceId=05a1b89d-ff84-4035-bdc6-863a0fae0b47&width=1530&userId=&cache=v2)
+![](https://pomf2.lain.la/f/p76h1ww.jpg)
 
 **术语解释**
 
@@ -66,7 +66,7 @@
 
 # 2、墙的阻断结果
 
-![](https://wangcy.cf/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F24d47ef7-9dd4-48e0-b269-ae78bef761a7%2FUntitled.png?id=b80a3867-b04e-4085-a777-7475179c6ad9&table=block&spaceId=05a1b89d-ff84-4035-bdc6-863a0fae0b47&width=1530&userId=&cache=v2)
+![](https://pomf2.lain.la/f/2xen9wj.png)
 
 > GFW有五层结构，这就意味着GFW能够完整的解析到我们的意图，当他认我们的目标意图存在于自己的**ip地址黑名单**或者**域名黑名单**时，就会阻断，具体来说会出现以下几种情况：
 > 
