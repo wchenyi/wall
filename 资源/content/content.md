@@ -14,7 +14,7 @@
 ### **目录**
 
 - 📱[Android安卓、Harmony鸿蒙](#android%E5%AE%89%E5%8D%93harmony%E9%B8%BF%E8%92%99)<br>
-- 🍎[IOS、iPad OS苹果](#iosipad-os%E8%8B%B9%E6%9E%9C)<br>
+- 🍎[IOS、iPad OS苹果](iosipad-os%E8%8B%B9%E6%9E%9C)<br>
 - 💻[Windows微软](#windows%E5%BE%AE%E8%BD%AF)
 
 ---
