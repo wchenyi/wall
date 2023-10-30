@@ -92,18 +92,11 @@
 **服务**
 
 - 流媒体
-  - [奈飞小铺](https://www.ihezu.cn/?sid=5hbCJC)、[奈飞小铺](https://netflixtown.com/)、[银河录像局](https://nf.video/)、[环球巴士](https://universalbus.cn)
-  - [国外ID](https://ioskaka.com/)、[V-SMS](https://sms-activate.org)、[快捷指令](https://www.icloud.com/shortcuts/8ca94dbffeb9477abaf4a0bed8d66355)
-    
-- 软件
-  - [Dism ++](https://github.com/Chuyu-Team/Dism-Multi-language/releases)、WICleanupUI
-  - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB/releases)、[Auto-Dark-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases)、[Via浏览器](https://musetransfer.com/s/7okdyqmkk)
-  - [Go安装器](https://musetransfer.com/s/083itt2qb)、[华谷套件](https://musetransfer.com/s/a2s1ifxch)、[GBox](http://gboxlab.com/)、[Gspace](https://musetransfer.com/s/nvk1ytrux)、[Gspcae icon](https://musetransfer.com/s/m1ntwwdum)
-  - [神秘模块](https://github.com/wchenyi/wall/raw/gh-pages/%E8%B5%84%E6%BA%90/%E7%A5%9E%E7%A7%98_android_202304231027.zip)、[流量监控（联通）](https://github.com/wchenyi/wall/raw/main/%E8%B5%84%E6%BA%90/%E6%B5%81%E9%87%8F%E7%9B%91%E6%8E%A7(%E8%81%94%E9%80%9A).apk)-[官网](https://github.com/JunXiaoRuo/unicom)
-  - [Trojan客户端](https://itlanyan.com/trojan-clients-download/)
-
-
-
-
-
-
+  - [奈飞小铺](https://www.ihezu.cn/?sid=5hbCJC)
+  - [奈飞小铺II](https://netflixtown.com/)
+  - [银河录像局](https://nf.video/)、[环球巴士](https://universalbus.cn)
+ 
+- 其他服务
+  - [国外ID](https://ioskaka.com/)
+  - [V-SMS](https://sms-activate.org)
+  - [快捷指令](https://www.icloud.com/shortcuts/8ca94dbffeb9477abaf4a0bed8d66355)
