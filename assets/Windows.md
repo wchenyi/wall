@@ -20,8 +20,8 @@
 
 | 软件 | 官网 | 1年 | 备用 | 备注 |
 | ----------------- | :-----------:|:-----------: |:-----------: |:-----------|
-|✅Clash For Windows|[下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)|[下载](https://musetransfer.com/s/a9vq1xwmr)|[下载](https://d3.netfiles.pw/v2/windows/Clash.for.Windows.Setup.0.19.15.exe)|⭐ 界面美观操作简便，占用空间较大，官网下载需自行[安装汉化](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
-|✅v2RayN-Core|[下载](https://github.com/2dust/v2rayN/releases)|[下载](https://musetransfer.com/s/nbkm0hotn)|[下载](https://d2.netfiles.pw/v2/windows/v2rayN-v5.9.zip)|⭐小白操作，空间占用小，zip解压安装，无需汉化，不支持ss插件，[旧版](https://musetransfer.com/s/zdjyphvom)
+|✅Clash For Windows|[下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)|[下载](https://musetransfer.com/s/o3zwcelk4)|[下载](https://d3.netfiles.pw/v2/windows/Clash.for.Windows.Setup.0.19.15.exe)|⭐ 界面美观操作简便，占用空间较大，官网下载需自行[安装汉化](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
+|✅v2RayN-Core|[下载](https://github.com/2dust/v2rayN/releases)|[下载](https://musetransfer.com/s/ktmakh3e5)|[下载](https://d2.netfiles.pw/v2/windows/v2rayN-v5.9.zip)|⭐小白操作，空间占用小，zip解压安装，无需汉化，不支持ss插件，[旧版](https://musetransfer.com/s/zdjyphvom)
 
 ---
 
@@ -39,9 +39,9 @@
 |Netch|[下载](https://github.com/NetchX/Netch/releases)|[下载](https://d2.netfiles.pw/v2/windows/Netch-v1.9.2.7z)|体积小，全局代理效果好
 |nekoray|[下载](https://github.com/MatsuriDayo/nekoray/releases)| |全平台支持，有插件可选，不支持32位，win7以下不可用，详见[说明文档](https://matsuridayo.github.io/download/)
 |Clash.Net|[下载](https://github.com/V2RaySSR/Clash.Net/releases)| |依赖于 ```.Net``` 运行的轻量级Clash，原生支持中文，目前已经删库，列出最后一版下载地址
-|ClashWeb|[下载](https://merlinblog.xyz/wiki/clashweb.html)|[下载](https://musetransfer.com/s/pz5iwhxzb)|轻量级Clash，```withoutPython``` 版本依赖```Python```环境，基本操作同CFW
+|ClashWeb|[下载](https://merlinblog.xyz/wiki/clashweb.html)|[下载](https://musetransfer.com/s/ukmtdumku)|轻量级Clash，```withoutPython``` 版本依赖```Python```环境，基本操作同CFW
 |ClashMeta|[下载](https://github.com/MetaCubeX/Clash.Meta/releases)| | |
-|Clash Multiplatform|[下载](https://t.me/c/1834195052/41)||cfa作者制作的多平台clash代理软件，目前仍在测试阶段|
+|Clash Multiplatform|[下载](https://t.me/c/1834195052/41)| |cfa作者制作的多平台clash代理软件，目前仍在测试阶段|
 
 ### **2.1 Trojan-Windows客户端**
 
