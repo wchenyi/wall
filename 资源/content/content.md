@@ -19,7 +19,7 @@
 
 ---
 
-# 📱Android安卓、Harmony鸿蒙
+## 📱Android安卓、Harmony鸿蒙
 
 ### **🧣谷歌套件**
 
@@ -40,14 +40,14 @@
 
 ---
 
-# 🍎IOS、iPad OS苹果
+## 🍎IOS、iPad OS苹果
 
 |[Focos](https://apps.apple.com/cn/app/focos/id1274938524)|
 | ---------------- |
 
 ---
 
-# 💻Windows微软
+## 💻Windows微软
 
 ### **🛡️清理软件**
 
