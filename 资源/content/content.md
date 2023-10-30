@@ -1,50 +1,15 @@
-# 资源下载
+# **其他软件下载**
 
+- 本页面下的软件均由本人收藏和整理，目的在于收藏和方便下载，没有任何盈利目的
 
-<style>
-  .app-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    gap: 20px;
-  }
+- 资源主要来源于 *官网、本人整理、本人制作*，请使用者遵守所在地区的相关法律、法规，严禁使用本页面提供的内容从事任何的违法犯罪活动
 
-  .app-item {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
+- 本页面所包含的资源包括但不限于以下几个方面：
+  - 垃圾清理
+  - 各种破解
+  - 实用工具
 
-  .app-icon {
-    width: 100px;
-    height: 100px;
-    object-fit: contain;
-  }
-</style>
+> Android安卓、Harmony OS鸿蒙、Windows微软……可用
 
-<div class="app-grid">
-  <div class="app-item">
-    <img class="app-icon" src="软件图标1链接" alt="软件名称1" />
-    <h3>软件名称1</h3>
-  </div>
-  <div class="app-item">
-    <img class="app-icon" src="软件图标2链接" alt="软件名称2" />
-    <h3>软件名称2</h3>
-  </div>
-  <!-- 更多软件 -->
-</div>
+### **目录**
 
- 
- 主页布局太乱了，在这个界面我想做成一种图标下载风格的。对主页提供的服务和其他软件下载进行排列。
- 待完成内容：
-- [ ] 深色模式切换
-- [ ] 软件图标显示
-- [ ] 布局精简
-- [ ] 常见问题解答页面
-- [ ] 免责声明内容
-- [ ] 搜索框
-- [ ] 域名建设
-- [ ] 个性化服务
-- [ ] 其他……
- 
- > 施工中……
