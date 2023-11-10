@@ -6,9 +6,6 @@
 
 <!--个人项目跳转页-->
 <div align="center">
-    <a href="https://wangcy.tk">Home</a> |
-    <a href="https://blog.wangcy.cf/">Blog</a> |
-    <a href="https://wangcy.tk/wall">Awall</a> <br>
     <a href="https://ycu.wangcy.cf">YCU Start Page </a> |
     <a href="https://sou.wangcy.tk">Minimalist Start Page</a> |
     <a href="https://wangcy.tk/Wallpaper">Wallpaper</a> |
