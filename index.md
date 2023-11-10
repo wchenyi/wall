@@ -8,10 +8,6 @@
 
 
 <div align="center">
-    <a href="https://wangcy.tk">主页</a> |
-    <a href="https://blog.wangcy.cf/">博客</a> |
-    <a href="https://wangcy.tk/wall">Awall</a> 
-    <br>
     <a href="https://ycu.wangcy.cf">YCU起始页</a> |
     <a href="https://sou.wangcy.tk">简约起始页</a> |
     <a href="https://wangcy.tk/Wallpaper">壁纸</a> | 
@@ -52,7 +48,8 @@
 （八）损害国家机关信誉的；<br>
 （九）其他违反宪法和法律、行政法规的。<br>
 第20条规定：违反法律、行政法规，有本办法第五条、第六条所列行为之一的，由公安机关给予警告，有违法所得的，没收违法所得，对个人可以并处 5000元以下的罚款，对单位可以并处1.5万元以下的罚款．………•构成违反治安管理行为的，依照治安管理处罚条例的规定处罚；构成犯罪的，依法追究刑事责任<br>
-> [参考文献](https://gfw.report/publications/usenixsecurity23/zh/)
+> [参考文献](https://gfw.report/publications/usenixsecurity23/zh/)、[WireGuard](https://www.wireguard.com/)
+
 ## **⭐️简介**
 
 - 尽可能涵盖各操作系统的翻墙软件技术信息交流，探讨网络安全和网络技术等相关知识，包括**Windows、IOS、Android、Mac OS、Linux、浏览器插件**等
