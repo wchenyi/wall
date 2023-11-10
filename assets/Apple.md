@@ -45,6 +45,7 @@
 |Xurge|[链接直达](https://apps.apple.com/hk/app/xurge-unofficial-surge-helper/id1525585898)
 |Loon|[链接直达](https://apps.apple.com/hk/app/loon/id1373567447)
 |Loon-lite|[链接直达](https://apps.apple.com/hk/app/loon-lite/id6444029612)
+|sing-box|[链接直达](https://apps.apple.com/us/app/sing-box/id6451272673)
 
 ## **2、Mac OS** 👩‍💻
 
@@ -78,4 +79,5 @@
 - 3、您也可以选择越狱或者安装ipa程序等各种方法。如果您本人是苹果开发者的话，可以自行[参考教程](https://www.xiaoglt.top/%e6%9e%84%e5%bb%ba%e8%87%aa%e5%b7%b1%e7%9a%84ios%e7%bd%91%e7%bb%9c%e4%bb%a3%e7%90%86%e5%ae%a2%e6%88%b7%e7%ab%afpotatso/)编译自己的代理软件。
 
 - 4、本站只是推荐，您在消费中等任何问题和本站无关；从个人角度出发，建议还是自己注册账号并进行购买。
+- [sing-box-subscribe](https://github.com/Toperlock/sing-box-subscribe)
 
