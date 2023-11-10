@@ -8,9 +8,6 @@
 
 <!--个人项目跳转页-->
 <div align="center">
-    <a href="https://wangcy.tk">主页</a> |
-    <a href="https://blog.wangcy.cf/">博客</a> |
-    <a href="https://wangcy.tk/wall">Awall</a> <br>
     <a href="https://ycu.wangcy.cf">YCU起始页</a> |
     <a href="https://sou.wangcy.tk">简约起始页</a> |
     <a href="https://wangcy.tk/Wallpaper">壁纸</a> |
