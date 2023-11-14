@@ -70,7 +70,7 @@
 | --- | :----: | :---: 
 |Trojan-Qt5|[下载](https://itlanyan.com/download.php?filename=/trojan/Trojan-Qt5-v1.4.0.dmg)|[使用教程](https://itlanyan.com/go.php?key=trojan-qt5-config)
 |Trojan-MacOS|[下载](https://github.com/trojan-gfw/trojan/releases)|[使用教程](https://itlanyan.com/go.php?key=trojan-mac-config)
-
+l
 ## **3、特别提醒**
 - 1、大陆地区的Apple ID无法找到此软件，需要在[ID管理界面](https://appleid.apple.com/#!&page=signin)切换成成港区、美区等；地址信息可以参考[美国地址生成器](https://mp.weixin.qq.com/s/vLXUSlLgiddAmNbcQk0tAg),或者自行寻找真实的非大陆国家、地区地址。
   
@@ -80,4 +80,4 @@
 
 - 4、本站只是推荐，您在消费中等任何问题和本站无关；从个人角度出发，建议还是自己注册账号并进行购买。
 - [sing-box-subscribe](https://github.com/Toperlock/sing-box-subscribe)
-
+https://sing-box-subscribe.vercel.app/
