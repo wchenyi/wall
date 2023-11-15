@@ -25,6 +25,7 @@
 |✅Quantumult X|[链接直达](https://apps.apple.com/us/app/quantumult-x/id1443988620?l=zh)|⭐值得推荐，界面美观，上手难度较高
 |Kitsunebi|[链接直达](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073)|
 |Egern|[连接直达](https://apps.apple.com/hk/app/egern/id1616105820)|
+|LanceX|[链接直达](https://apps.apple.com/hk/app/lancex/id1536754048)|
 
 **其他免费代理/VPN软件**
 - 这里部分软件是VPN，部分软件是小众的代理软件。在此只做列举，不做任何推荐，请使用者自行甄别。
