@@ -27,6 +27,8 @@
 |Egern|[连接直达](https://apps.apple.com/hk/app/egern/id1616105820)|
 |LanceX|[链接直达](https://apps.apple.com/hk/app/lancex/id1536754048)|
 |📶PuffGlide|[链接直达](https://apps.apple.com/hk/app/puff-glide/id6463709890)|
+|Loon|[链接直达](https://apps.apple.com/hk/app/loon/id1373567447)|
+|Loon-lite|[链接直达](https://apps.apple.com/hk/app/loon-lite/id6444029612)|
 
 **其他免费代理/VPN软件**
 - 这里部分软件是VPN，部分软件是小众的代理软件。在此只做列举，不做任何推荐，请使用者自行甄别。
@@ -46,11 +48,11 @@
 |Outline|[链接直达](https://apps.apple.com/us/app/outline-app/id1356177741)
 |Kitsunebi|[链接直达](https://apps.apple.com/us/app/outline-app/id1356177741)
 |Xurge|[链接直达](https://apps.apple.com/hk/app/xurge-unofficial-surge-helper/id1525585898)
-|Loon|[链接直达](https://apps.apple.com/hk/app/loon/id1373567447)
-|Loon-lite|[链接直达](https://apps.apple.com/hk/app/loon-lite/id6444029612)
-|sing-box|[链接直达](https://apps.apple.com/us/app/sing-box/id6451272673)
+|🐶sing-box|[链接直达](https://apps.apple.com/us/app/sing-box/id6451272673)
 |ForXray|[链接直达](https://apps.apple.com/hk/app/foxray/id6448898396)
 |Chute|[链接直达](https://apps.apple.com/hk/app/chute-network-toolbox/id1515248945)
+|🐶Spectre|[链接直达](https://apps.apple.com/hk/app/spectre-vpn/id1508712998)
+|v2Box|[链接直达](https://apps.apple.com/hk/app/v2box-v2ray-client/id6446814690)
 
 ## **2、Mac OS** 👩‍💻
 
