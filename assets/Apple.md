@@ -48,6 +48,7 @@
 |Loon|[链接直达](https://apps.apple.com/hk/app/loon/id1373567447)
 |Loon-lite|[链接直达](https://apps.apple.com/hk/app/loon-lite/id6444029612)
 |sing-box|[链接直达](https://apps.apple.com/us/app/sing-box/id6451272673)
+|ForXray|[链接直达](https://apps.apple.com/hk/app/foxray/id6448898396)
 
 ## **2、Mac OS** 👩‍💻
 
