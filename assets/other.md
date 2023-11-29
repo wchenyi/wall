@@ -23,7 +23,8 @@
 |✅Trojan-qt5|[下载]()
 |✅Nekoray|[下载](https://github.com/MatsuriDayo/nekoray/releases)
 |✅ClashMeta|[下载](https://github.com/MetaCubeX/Clash.Meta/releases)
-|✅Clash Mutiplatform|[下载](https://t.me/c/1834195052/41)
+|~✅Clash Mutiplatform~|~[下载](https://t.me/c/1834195052/41)~
+|✅clash-rev|[下载](https://github.com/MerlinKodo/clash-rev)|
 
 ### **1.1 Trojan客户端**
 
