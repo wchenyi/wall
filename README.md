@@ -3,7 +3,7 @@
 <!-- logo -->
 <p align="center">
     <a href="https://wangcy.tk" alt="Wangcy Logo">
-    <img src="https://www.freeimg.cn/i/2023/12/11/6575eed7e5a58.png" height="173"/></a>
+    <img src="https://www.freeimg.cn/i/2023/12/11/6575f10443115.png" height="173"/></a>
 </p>
 
 <!--个人项目跳转页-->
