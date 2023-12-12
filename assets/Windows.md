@@ -20,7 +20,7 @@
 
 | 软件 | 官网 | 1年 | 备用 | 备注 |
 | ----------------- | :-----------:|:-----------: |:-----------: |:-----------|
-|~✅Clash For Windows~|~[下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)~|[下载](https://musetransfer.com/s/o3zwcelk4)|[下载](https://d3.netfiles.pw/v2/windows/Clash.for.Windows.Setup.0.19.15.exe)|~⭐ 界面美观操作简便，占用空间较大，官网下载需自行[安装汉化](https://github.com/ender-zhao/Clash-for-Windows_Chinese)~
+|~✅Clash For Windows❌~|~[下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)~|[下载](https://musetransfer.com/s/o3zwcelk4)|[下载](https://d3.netfiles.pw/v2/windows/Clash.for.Windows.Setup.0.19.15.exe)|~⭐ 界面美观操作简便，占用空间较大，官网下载需自行[安装汉化](https://github.com/ender-zhao/Clash-for-Windows_Chinese)~
 |✅v2RayN-Core|[下载](https://github.com/2dust/v2rayN/releases)|[下载](https://musetransfer.com/s/ktmakh3e5)|[下载](https://d2.netfiles.pw/v2/windows/v2rayN-v5.9.zip)|⭐小白操作，空间占用小，zip解压安装，无需汉化，不支持ss插件，[旧版](https://musetransfer.com/s/zdjyphvom)
 
 ---
@@ -44,6 +44,7 @@
 |~Clash Multiplatform~|~[下载](https://t.me/c/1834195052/41)~| |~cfa作者制作的多平台clash代理软件，目前仍在测试阶段~|
 |clash-rev|[下载](https://github.com/MerlinKodo/clash-rev)||clash删库后继承的项目，目前为了不必要的竞争，已经存档|
 |clash-nyanpasu|[下载](https://github.com/keiko233/clash-nyanpasu)||默认Meta内核，可更改|
+|Hiddify-next|[下载](https://github.com/hiddify/hiddify-next/releases)||多平台|
 
 ### **2.1 Trojan-Windows客户端**
 
