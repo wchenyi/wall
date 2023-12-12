@@ -29,6 +29,7 @@
 |📶PuffGlide|[链接直达](https://apps.apple.com/hk/app/puff-glide/id6463709890)|
 |Loon|[链接直达](https://apps.apple.com/hk/app/loon/id1373567447)|
 |Loon-lite|[链接直达](https://apps.apple.com/hk/app/loon-lite/id6444029612)|
+|Hiddify-next|[链接直达](https://hiddify.com)|多平台|
 
 **其他免费代理/VPN软件**
 - 这里部分软件是VPN，部分软件是小众的代理软件。在此只做列举，不做任何推荐，请使用者自行甄别。
@@ -70,6 +71,7 @@
 |✅ShadowsocksX-NG-R|[下载](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)|
 |✅Nekoray-MacOS|[下载](https://github.com/aaaamirabbas/nekoray-macos/releases)|
 |✅ClashVerge|[下载](https://github.com/zzzgydi/clash-verge/releases)|
+|✅Hiddify-next|[下载](https://hiddify.com)|[下载](https://github.com/hiddify/hiddify-next/releases)
 
 ### **2.1 Trojan客户端**
 
