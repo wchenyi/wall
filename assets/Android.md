@@ -29,7 +29,7 @@
 |✅ClashMeta|[下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)|[下载](https://musetransfer.com/s/y43osk4bw)|[下载](https://play.google.com/store/apps/details?id=com.github.metacubex.clash.meta)| |在ClashForAndroid超过半年不更新之后，新兴的Clash客户端，支持多平台
 |~✅Clash MultuPlatform❌~|~[下载](https://t.me/c/1834195052/42)~|[下载](https://musetransfer.com/s/q5ot9fud0)| | |~cfa作者在cfa之后的多平台代理软件，目前还在测试阶段~
 |✅Hiddify|[下載](https://hiddify.com)||[下載](https://play.google.com/store/apps/details?id=ang.hiddify.com)|||
-|✅Hiddify-next|[下載](https://github.com/hiddify/hiddify-next/releases)||[下載](https://play.google.com/store/apps/details?id=app.hiddify.com)|｜｜
+|✅Hiddify-next|[下載](https://github.com/hiddify/hiddify-next/releases)||[下載](https://play.google.com/store/apps/details?id=app.hiddify.com)|||
 
 - 1、大部分安卓手机，将应用商店的地区更改为境外地区后，可搜到上述软件
 
