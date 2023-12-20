@@ -45,6 +45,7 @@
 |clash-rev|[下载](https://github.com/MerlinKodo/clash-rev)||clash删库后继承的项目，目前为了不必要的竞争，已经存档|
 |clash-nyanpasu|[下载](https://github.com/keiko233/clash-nyanpasu)||默认Meta内核，可更改|
 |Hiddify-next|[下载](https://github.com/hiddify/hiddify-next/releases)||多平台|
+|sing-box|[下载](https://github.com/SagerNet/sing-box)||多平台|
 
 ### **2.1 Trojan-Windows客户端**
 
