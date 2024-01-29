@@ -20,14 +20,14 @@
 
 | 软件 | 官网 | 1年 | 谷歌商店 | 备用 | 备注 |
 | ---- | :--: | :--: | :----: | :---: | :--- |
-|~✅Clash For  Android❌~|~[下载](https://github.com/Kr328/ClashForAndroid/releases)~|[下载](https://musetransfer.com/s/25jgukrue)|~[下载](https://play.google.com/store/search?q=clash&c=apps&hl=zh_CN)~|[下载](https://d3.netfiles.pw/v2/android/ClashForAndroid-v2.5.4.apk)|~⭐资源占用较低（参考值：27.58MB）~<br>~高阶操作需配置代码，可单独开热点，不可单独混淆~
+|✅Clash For  Android❌|[下载](https://github.com/Kr328/ClashForAndroid/releases)|[下载](https://musetransfer.com/s/25jgukrue)|[下载](https://play.google.com/store/search?q=clash&c=apps&hl=zh_CN)|[下载](https://d3.netfiles.pw/v2/android/ClashForAndroid-v2.5.4.apk)|⭐资源占用较低（参考值：27.58MB）~<br>~高阶操作需配置代码，可单独开热点，不可单独混淆
 |✅v2RayNG|[下载](https://github.com/2dust/v2rayNG/releases)|[下载](https://musetransfer.com/s/0z1ny21fc)|[下载](https://play.google.com/store/search?q=v2ray&c=apps&hl=zh_CN)|[下载](https://d3.netfiles.pw/v2/android/v2rayNG-v1.7.3.apk)|⭐资源占用较高（参考值：60.23MB）<br>高阶操作无需代码，可单独开热点（鸿蒙系统热点可能有Bug，可以使用oneclick或者Matsuri），可单独混淆
 |✅SurfBoard|[下载](https://github.com/getsurfboard/surfboard)|[下载](https://musetransfer.com/s/j56ehepqk)|[下载](https://play.google.com/store/apps/details?id=com.getsurfboard&hl=zh_CN)|[文档](https://manual.getsurfboard.com)|⭐资源占用较低（参考值：46.01MB）<br>高阶操作无需代码，可单独开热点，不可单独混淆
 |✅OneClick|[下载](https://oneclick.earth/#/)| |[下载](https://play.google.com/store/apps/details?id=earth.oneclick)| |⭐资源占用较低（参考值：57.45MB）<br>苹果和安卓端都有此软件、免费，可单独开热点
 |✅NekoBoxForAndroid|[下载](https://github.com/MatsuriDayo/NekoBoxForAndroid)|[下载](https://musetransfer.com/s/vnfu2gpto)|[下载](https://play.google.com/store/apps/details?id=moe.nb4a)| |⭐资源占用较低（参考值：50.89MB）全平台覆盖，使用sing-box内核，详见[说明文档](https://matsuridayo.github.io/)，有插件可选。增添了很多实用功能，比较推荐
 |✅Matsuri|[下载](https://github.com/MatsuriDayo/Matsuri)|[下载](https://musetransfer.com/s/qusu1bsni)|[下载](https://play.google.com/store/apps/details?id=moe.matsuri.lite)| |⭐资源占用较低（参考值：50.64MB）和NB4A一个作者，为长期版本，可将节点添加到桌面
 |✅ClashMeta|[下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)|[下载](https://musetransfer.com/s/y43osk4bw)|[下载](https://play.google.com/store/apps/details?id=com.github.metacubex.clash.meta)| |在ClashForAndroid超过半年不更新之后，新兴的Clash客户端，支持多平台
-|~✅Clash MultuPlatform❌~|~[下载](https://t.me/c/1834195052/42)~|[下载](https://musetransfer.com/s/q5ot9fud0)| | |~cfa作者在cfa之后的多平台代理软件，目前还在测试阶段~
+|✅Clash MultuPlatform❌|[下载](https://t.me/c/1834195052/42)|[下载](https://musetransfer.com/s/q5ot9fud0)| | |cfa作者在cfa之后的多平台代理软件，目前还在测试阶段
 |✅Hiddify|[下載](https://hiddify.com)||[下載](https://play.google.com/store/apps/details?id=ang.hiddify.com)|||
 |✅Hiddify-next|[下載](https://github.com/hiddify/hiddify-next/releases)||[下載](https://play.google.com/store/apps/details?id=app.hiddify.com)|||
 |✅sing-box|[下载](https://github.com/SagerNet/sing-box)||||少有的免费，支持安卓、Win、iOS、Apple TV的软件|
