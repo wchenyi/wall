@@ -1,18 +1,18 @@
 <!-- logo -->
 <p align="center">
-    <a href="https://wangcy.tk" alt="Wangcy Logo">
+    <a href="https://wangcy.site" alt="Wangcy Logo">
     <img src="https://www.freeimg.cn/i/2023/12/11/6575f10443115.png" height="173"/></a>
 </p>
 
 <!--个人项目跳转页-->
 <div align="center">
-    <a href="https://wangcy.tk">主页</a> |
+    <a href="https://wangcy.site">主页</a> |
     <a href="https://blog.wangcy.cf/">博客</a> |
-    <a href="https://wangcy.tk/wall">Awall</a> <br>
+    <a href="https://wangcy.site/wall">Awall</a> <br>
     <a href="https://ycu.wangcy.cf">YCU起始页</a> |
-    <a href="https://sou.wangcy.tk">简约起始页</a> |
-    <a href="https://wangcy.tk/Wallpaper">壁纸</a> |
-    <a href="https://donate.wangcy.tk">投喂</a> 
+    <a href="https://sou.wangcy.site">简约起始页</a> |
+    <a href="https://wangcy.site/Wallpaper">壁纸</a> |
+    <a href="https://donate.wangcy.site">投喂</a> 
 </div>
 
 <!--语言标识-->
@@ -25,8 +25,8 @@
 
 <!--语言切换-->
 <p align="center">
-    <a href="https://wangcy.tk/wall/CHN"><img src="https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-%E4%B8%AD%E6%96%87-brightgreen"></a>
-    <a href="https://wangcy.tk/wall/Eng"><img src="https://img.shields.io/badge/Language-English-brightgreen"></a>
+    <a href="https://wangcy.site/wall/CHN"><img src="https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-%E4%B8%AD%E6%96%87-brightgreen"></a>
+    <a href="https://wangcy.site/wall/Eng"><img src="https://img.shields.io/badge/Language-English-brightgreen"></a>
 </p>    
     
 # 目录
@@ -65,8 +65,8 @@
 - 个人心得、测评等
 
 # 4.预览效果
-在线演示：[点击跳转](https://wangcy.tk/wall) ，如果感兴趣可以Star，想要以此为基础自建的话可以[Fork](https://github.com/login?return_to=%2Fwchenyi%2Fwall)，或者点个[Star](https://github.com/login?return_to=%2Fwchenyi%2Fwall)
+在线演示：[点击跳转](https://wangcy.site/wall) ，如果感兴趣可以Star，想要以此为基础自建的话可以[Fork](https://github.com/login?return_to=%2Fwchenyi%2Fwall)，或者点个[Star](https://github.com/login?return_to=%2Fwchenyi%2Fwall)
 
 | 主页 | 下载页面 | 说明文档 | 原理 |
 |--|--|--|--|
-| <img src='./shortcuts/主页.png' height='150'/> [跳转](http://wangcy.tk/wall/)  | <img src='./shortcuts/软件下载.png' height='150'/> [跳转](http://wangcy.tk/wall/assets/Android) | <img src='./shortcuts/说明文档.png' height='150'/> [跳转](http://wangcy.tk/wall/assets/doc) | <img src='./shortcuts/原理内容.png' height='150'/> [跳转](http://wangcy.tk/wall/Awall/%E7%BD%91%E7%BB%9C%E7%9A%84%E6%A6%82%E5%BF%B5) |
+| <img src='./shortcuts/主页.png' height='150'/> [跳转](http://wangcy.site/wall/)  | <img src='./shortcuts/软件下载.png' height='150'/> [跳转](http://wangcy.site/wall/assets/Android) | <img src='./shortcuts/说明文档.png' height='150'/> [跳转](http://wangcy.site/wall/assets/doc) | <img src='./shortcuts/原理内容.png' height='150'/> [跳转](http://wangcy.site/wall/Awall/%E7%BD%91%E7%BB%9C%E7%9A%84%E6%A6%82%E5%BF%B5) |
