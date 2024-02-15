@@ -62,4 +62,4 @@
 |[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB/releases)|[Auto-Dark-Mode](https://musetransfer.com/s/nitwmnrqi)|[offlineinsiderenroll](https://musetransfer.com/s/rpkjokn1q)|
 | ---------------- | :--------------------: | :-----------------: |
 |[**win-airplay**](https://musetransfer.com/s/3ropamxs1)|[**Trojan客户端**](https://itlanyan.com/trojan-clients-download/)|[**FSCapture**](https://musetransfer.com/s/tqse1i9hh)|
-|[**QQScreenShot**](https://musetransfer.com/s/uxqml22nd)|[wechat-need-web](https://github.com/wchenyi/wall/blob/main/%E8%B5%84%E6%BA%90/wechat-need-web.zip)|
+|[**QQScreenShot**](https://musetransfer.com/s/uxqml22nd)|[**wechat-need-web**](https://github.com/wchenyi/wall/raw/main/%E8%B5%84%E6%BA%90/wechat-need-web.zip)|
