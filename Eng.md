@@ -1,15 +1,15 @@
 <!-- logo -->
 <p align="center">
-    <a href="https://wangcy.tk" alt="Wangcy Logo">
+    <a href="https://wangcy.site" alt="Wangcy Logo">
     <img src="https://www.freeimg.cn/i/2023/12/11/6575f10443115.png" height="173"/></a>
 </p>
 
 <!--个人项目跳转页-->
 <div align="center">
     <a href="https://ycu.wangcy.cf">YCU Start Page </a> |
-    <a href="https://sou.wangcy.tk">Minimalist Start Page</a> |
-    <a href="https://wangcy.tk/Wallpaper">Wallpaper</a> |
-    <a href="https://donate.wangcy.tk">Donate</a> 
+    <a href="https://sou.wangcy.site">Minimalist Start Page</a> |
+    <a href="https://wangcy.site/Wallpaper">Wallpaper</a> |
+    <a href="https://donate.wangcy.site">Donate</a> 
 </div>
 
 <!--语言标识-->
@@ -22,8 +22,8 @@
 
 <!--语言切换-->
 <p align="center">
-    <a href="https://wangcy.tk/wall/CHN"><img src="https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-%E4%B8%AD%E6%96%87-brightgreen"></a>
-    <a href="http://wangcy.tk/wall/Eng"><img src="https://img.shields.io/badge/Language-English-brightgreen"></a>
+    <a href="https://wangcy.site/wall/CHN"><img src="https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-%E4%B8%AD%E6%96%87-brightgreen"></a>
+    <a href="http://wangcy.site/wall/Eng"><img src="https://img.shields.io/badge/Language-English-brightgreen"></a>
 </p>    
 
 # Table of contents
@@ -60,8 +60,8 @@ Here I would like to express my sincere admiration and thanks to the original cr
 - Personal experience, evaluation, etc.
 
 # 4. Preview effect
-Online demo: [click to jump](https://wangcy.tk/wall), if you are interested, you can [star](https://github.com/login?return_to=%2Fwchenyi%2Fwall), if you want to build yourself based on this, you can [fork](https://github.com/login?return_to=%2Fwchenyi%2Fwall)
+Online demo: [click to jump](https://wangcy.site/wall), if you are interested, you can [star](https://github.com/login?return_to=%2Fwchenyi%2Fwall), if you want to build yourself based on this, you can [fork](https://github.com/login?return_to=%2Fwchenyi%2Fwall)
 
 | Home | Download | Instruction | Principle |
 |--|--|--|--|
-| <img src='./shortcuts/主页.png' height='150'/> [Jump](http://wangcy.tk/wall/)  | <img src='./shortcuts/软件下载.png' height='150'/> [Jump](http://wangcy.tk/wall/assets/Android) | <img src='./shortcuts/说明文档.png' height='150'/> [Jump](http://wangcy.tk/wall/assets/doc) | <img src='./shortcuts/原理内容.png' height='150'/> [Jump](http://wangcy.tk/wall/Awall/%E7%BD%91%E7%BB%9C%E7%9A%84%E6%A6%82%E5%BF%B5) |
+| <img src='./shortcuts/主页.png' height='150'/> [Jump](http://wangcy.site/wall/)  | <img src='./shortcuts/软件下载.png' height='150'/> [Jump](http://wangcy.site/wall/assets/Android) | <img src='./shortcuts/说明文档.png' height='150'/> [Jump](http://wangcy.site/wall/assets/doc) | <img src='./shortcuts/原理内容.png' height='150'/> [Jump](http://wangcy.site/wall/Awall/%E7%BD%91%E7%BB%9C%E7%9A%84%E6%A6%82%E5%BF%B5) |
