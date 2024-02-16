@@ -1,37 +1,29 @@
-# 资源下载
-
-
-<style>
-  .app-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    gap: 20px;
-  }
-
-  .app-item {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-
-  .app-icon {
-    width: 100px;
-    height: 100px;
-    object-fit: contain;
-  }
-</style>
-
-<div class="app-grid">
-  <div class="app-item">
-    <img class="app-icon" src="软件图标1链接" alt="软件名称1" />
-    <h3>软件名称1</h3>
+<h2>常用资源</h2>
+<div class='icon-block-body-four'>
+  <div class='icon-block-item'>
+    <a href="/docs/302.html?target=https://telegram.org/android" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报安卓版本" height=50px>
+        <p>安卓下载</p>
+    </a>
   </div>
-  <div class="app-item">
-    <img class="app-icon" src="软件图标2链接" alt="软件名称2" />
-    <h3>软件名称2</h3>
+   <div class='icon-block-item'>
+    <a href="/docs/302.html?target=https://telegram.org" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报官网" height=50px>
+        <p>官网</p>
+    </a>
   </div>
-  <!-- 更多软件 -->
+    <div class='icon-block-item'>
+    <a href="/docs/302.html?target=https://web.telegram.org" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报网页版" height=50px>
+        <p>网页版</p>
+    </a>
+  </div>
+    <div class='icon-block-item'>
+    <a href="/docs/302.html?target=https://t.me/chinaDianBaoFans" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报网页版" height=50px>
+        <p>官方群</p>
+    </a>
+  </div>
 </div>
 
  
