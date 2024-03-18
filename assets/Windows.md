@@ -35,6 +35,7 @@
 |Qv2ray|[下载](https://github.com/Qv2ray/Qv2ray/releases)| |目前已停止维护，听说对win7支持比较好
 |v2rayW|[下载](https://github.com/Cenmrev/V2RayW/releases)| |
 |Clash Verge|[下载](https://github.com/zzzgydi/clash-verge/releases)| |Clash的变体，资源占用小，自定义皮肤，配置文件管理和增强
+|clash-verge-rev|[下载](https://github.com/clash-verge-rev/clash-verge-rev)||
 |Shadowsocks|[下载](https://github.com/shadowsocks/shadowsocks-windows)| |支持ss插件的客户端
 |Netch|[下载](https://github.com/NetchX/Netch/releases)|[下载](https://d2.netfiles.pw/v2/windows/Netch-v1.9.2.7z)|体积小，全局代理效果好
 |nekoray|[下载](https://github.com/MatsuriDayo/nekoray/releases)| |全平台支持，有插件可选，不支持32位，win7以下不可用，详见[说明文档](https://matsuridayo.github.io/download/)
