@@ -64,6 +64,7 @@
 |✅Stash|[下载](https://stash.ws)|
 |✅Surge for Mac|[下载](https://nssurge.com)|
 |✅Clash Verge|[下载](https://github.com/zzzgydi/clash-verge/releases)|
+|✅clash-verge-rev|[下载](https://github.com/clash-verge-rev/clash-verge-rev)|
 |✅Qv2ray|[下载](https://github.com/Qv2ray/Qv2ray/releases)|
 |✅v2rayU|[下载](https://github.com/yanue/V2rayU/releases)|
 |✅V2rayX|[下载](https://github.com/yanue/V2rayU/releases)|
