@@ -55,7 +55,7 @@
 - 尽可能涵盖各操作系统的翻墙软件技术信息交流，探讨网络安全和网络技术等相关知识，包括**Windows、IOS、Android、Mac OS、Linux、浏览器插件**等
 
 - **参考资料：**
-  - [翻墙原理分析](http://wangcy.tk/wall/assets/doc)
+  - [翻墙原理分析](http://wchenyi.github.io/wall/assets/doc)
   - [v2Ray全系客户端](https://itlanyan.com/v2ray-clients-download/)
   - [Project V 神一样的工具们](https://www.v2ray.com/awesome/tools.html)
 
