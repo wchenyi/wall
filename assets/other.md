@@ -26,6 +26,7 @@
 |~✅Clash Mutiplatform❌~|~[下载](https://t.me/c/1834195052/41)~
 |✅clash-rev|[下载](https://github.com/MerlinKodo/clash-rev)|
 |✅clash-verge-rev|[下载](https://github.com/clash-verge-rev/clash-verge-rev)|
+|✅Mihomo Party|[下载](https://github.com/pompurin404/mihomo-party/releases)|
 |✅Hiddify-next|[下载](https://github.com/hiddify/hiddify-next/releases)|
 |✅sing-box|[下载](https://github.com/SagerNet/sing-box)|
 
