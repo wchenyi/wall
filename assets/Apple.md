@@ -20,13 +20,13 @@
 | --- | :---: | :--- 
 |✅Shadowrocket|[链接直达](https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh)|⭐性价比无敌，单独节点，上手简单，单独热点、单独免流
 |✅Stash|[链接直达](https://apps.apple.com/us/app/stash/id1596063349?l=zh)|⭐无缝衔接CFA，界面美观，可自定义图标，单独热点，单独免流
-|✅OneClick|[官网](https://oneclick.earth/#/)|⭐️苹果端免费软件，安卓端也有此软件，覆盖基础功能，可单独开热点
 |✅Surge|[链接直达](https://apps.apple.com/us/app/surge-5/id1442620678?l=zh)|⭐强大但贵，界面美观，可玩性高
 |✅Quantumult X|[链接直达](https://apps.apple.com/us/app/quantumult-x/id1443988620?l=zh)|⭐值得推荐，界面美观，上手难度较高
+|OneClick|[官网](https://oneclick.earth/#/)|⭐️苹果端免费软件，安卓端也有此软件，覆盖基础功能，可单独开热点
 |Kitsunebi|[链接直达](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073)|
 |Egern|[连接直达](https://apps.apple.com/hk/app/egern/id1616105820)|
 |LanceX|[链接直达](https://apps.apple.com/hk/app/lancex/id1536754048)|
-|📶PuffGlide|[链接直达](https://apps.apple.com/hk/app/puff-glide/id6463709890)|
+|PuffGlide|[链接直达](https://apps.apple.com/hk/app/puff-glide/id6463709890)|
 |Loon|[链接直达](https://apps.apple.com/hk/app/loon/id1373567447)|
 |Loon-lite|[链接直达](https://apps.apple.com/hk/app/loon-lite/id6444029612)|
 |Hiddify-next|[链接直达](https://hiddify.com)|多平台|
@@ -65,15 +65,15 @@
 |✅Surge for Mac|[下载](https://nssurge.com)|
 |✅Clash Verge|[下载](https://github.com/zzzgydi/clash-verge/releases)|
 |✅clash-verge-rev|[下载](https://github.com/clash-verge-rev/clash-verge-rev)|
-|✅clash-verge-rev|[下载](https://github.com/pompurin404/mihomo-party/releases)
-|✅Qv2ray|[下载](https://github.com/Qv2ray/Qv2ray/releases)|
-|✅v2rayU|[下载](https://github.com/yanue/V2rayU/releases)|
-|✅V2rayX|[下载](https://github.com/yanue/V2rayU/releases)|
-|✅ShadowsocksX-NG|[下载](https://github.com/shadowsocks/ShadowsocksX-NG/releases)|
-|✅ShadowsocksX-NG-R|[下载](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)|
-|✅Nekoray-MacOS|[下载](https://github.com/aaaamirabbas/nekoray-macos/releases)|
-|✅ClashVerge|[下载](https://github.com/zzzgydi/clash-verge/releases)|
-|✅Hiddify-next|[下载](https://hiddify.com)|[下载](https://github.com/hiddify/hiddify-next/releases)
+|✅Mihomo Party|[下载](https://github.com/pompurin404/mihomo-party/releases)
+|Qv2ray|[下载](https://github.com/Qv2ray/Qv2ray/releases)|
+|v2rayU|[下载](https://github.com/yanue/V2rayU/releases)|
+|V2rayX|[下载](https://github.com/yanue/V2rayU/releases)|
+|ShadowsocksX-NG|[下载](https://github.com/shadowsocks/ShadowsocksX-NG/releases)|
+|ShadowsocksX-NG-R|[下载](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)|
+|Nekoray-MacOS|[下载](https://github.com/aaaamirabbas/nekoray-macos/releases)|
+|ClashVerge|[下载](https://github.com/zzzgydi/clash-verge/releases)|
+|Hiddify-next|[下载](https://hiddify.com)|[下载](https://github.com/hiddify/hiddify-next/releases)
 
 ### **2.1 Trojan客户端**
 
