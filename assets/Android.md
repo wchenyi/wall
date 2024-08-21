@@ -27,10 +27,10 @@
 |✅NekoBoxForAndroid|[下载](https://github.com/MatsuriDayo/NekoBoxForAndroid)|[下载](https://musetransfer.com/s/vnfu2gpto)|[下载](https://play.google.com/store/apps/details?id=moe.nb4a)| |⭐资源占用较低（参考值：50.89MB）全平台覆盖，使用sing-box内核，详见[说明文档](https://matsuridayo.github.io/)，有插件可选。增添了很多实用功能，比较推荐
 |✅Matsuri|[下载](https://github.com/MatsuriDayo/Matsuri)|[下载](https://musetransfer.com/s/qusu1bsni)|[下载](https://play.google.com/store/apps/details?id=moe.matsuri.lite)| |⭐资源占用较低（参考值：50.64MB）和NB4A一个作者，为长期版本，可将节点添加到桌面
 |✅ClashMeta|[下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)|[下载](https://musetransfer.com/s/y43osk4bw)|[下载](https://play.google.com/store/apps/details?id=com.github.metacubex.clash.meta)| |在ClashForAndroid超过半年不更新之后，新兴的Clash客户端，支持多平台
-|✅Clash MultuPlatform❌|[下载](https://t.me/c/1834195052/42)|[下载](https://musetransfer.com/s/q5ot9fud0)| | |cfa作者在cfa之后的多平台代理软件，目前还在测试阶段
 |✅Hiddify|[下載](https://hiddify.com)||[下載](https://play.google.com/store/apps/details?id=ang.hiddify.com)|||
 |✅Hiddify-next|[下載](https://github.com/hiddify/hiddify-next/releases)||[下載](https://play.google.com/store/apps/details?id=app.hiddify.com)|||
 |✅sing-box|[下载](https://github.com/SagerNet/sing-box)||||少有的免费，支持安卓、Win、iOS、Apple TV的软件|
+|Clash MultuPlatform❌|[下载](https://t.me/c/1834195052/42)|[下载](https://musetransfer.com/s/q5ot9fud0)| | |cfa作者在cfa之后的多平台代理软件，目前删库
 
 - 1、大部分安卓手机，将应用商店的地区更改为境外地区后，可搜到上述软件
 
