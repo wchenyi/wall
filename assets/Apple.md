@@ -30,6 +30,8 @@
 |Loon|[链接直达](https://apps.apple.com/hk/app/loon/id1373567447)|
 |Loon-lite|[链接直达](https://apps.apple.com/hk/app/loon-lite/id6444029612)|
 |Hiddify-next|[链接直达](https://hiddify.com)|多平台|
+|Choc|[链接直达](https://apps.apple.com/hk/app/choc/id1582542227)||
+|ClashX|[链接直达](https://apps.apple.com/hk/app/clashx-服务监控面板/id6444824570)||
 
 **其他免费代理/VPN软件**
 - 这里部分软件是VPN，部分软件是小众的代理软件。在此只做列举，不做任何推荐，请使用者自行甄别。
@@ -53,7 +55,8 @@
 |ForXray|[链接直达](https://apps.apple.com/hk/app/foxray/id6448898396)
 |Chute|[链接直达](https://apps.apple.com/hk/app/chute-network-toolbox/id1515248945)
 |🐶Spectre|[链接直达](https://apps.apple.com/hk/app/spectre-vpn/id1508712998)
-|v2Box|[链接直达](https://apps.apple.com/hk/app/v2box-v2ray-client/id6446814690)
+|v2Box|[链接直达](https://apps.apple.com/app/id6446814690)
+|Telescope|[链接直达](https://apps.apple.com/hk/app/v2box-v2ray-client/id6446814690)
 
 ## **2、Mac OS** 👩‍💻
 
