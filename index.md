@@ -73,7 +73,7 @@
 **推荐**
 
 - [博主测评](https://www.duyaoss.com/archives/360/)、[博主荐藏](https://duangks.com/)、[Barry测评](https://10beasts.net/)、[小狗论坛](https://www.xiaoglt.top/)
-- [奶油之家](https://naiyou001.tk/)、[软件黑名单](https://10beasts.net/china-fanqiang-tools-blacklist/)、[好东西一起分享](https://10beasts.net/recommend/)
+- [奶油之家](https://naiyou001.tk/)、[软件黑名单](https://10beasts.net/china-fanqiang-tools-blacklist/)、[好东西一起分享](https://10beasts.net/recommend/)、[Clash中文网](https://clashcn.com/)
 
 **工具**
 
@@ -87,7 +87,7 @@
   - [节点池](https://www.mattkaydiary.com/2021/02/5-free-subscribe-generator-tools-2021-site.html?m=1)、[节点池订阅转换](https://ednovas.xyz/2021/01/15/freeproxies/#EdNovas的节点池)
   - [节点机器人](https://t.me/freenodeshare_bot)
   
-**服务**
+**其他**
 
 - 流媒体
   - [奈飞小铺](https://www.ihezu.cn/?sid=5hbCJC)
