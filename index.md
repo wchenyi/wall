@@ -90,11 +90,8 @@
 **其他**
 
 - 流媒体
-  - [奈飞小铺](https://www.ihezu.cn/?sid=5hbCJC)
-  - [奈飞小铺II](https://netflixtown.com/)
+  - [奈飞小铺](https://www.ihezu.cn/?sid=5hbCJC)、[奈飞小铺II](https://netflixtown.com/)
   - [银河录像局](https://nf.video/)、[环球巴士](https://universalbus.cn)
  
 - 其他服务
-  - [国外ID](https://ioskaka.com/)
-  - [V-SMS](https://sms-activate.org)
-  - [快捷指令](https://www.icloud.com/shortcuts/8ca94dbffeb9477abaf4a0bed8d66355)
+  - [国外ID](https://ioskaka.com/)、[V-SMS](https://sms-activate.org)、[快捷指令](https://www.icloud.com/shortcuts/8ca94dbffeb9477abaf4a0bed8d66355)
