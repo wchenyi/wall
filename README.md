@@ -1,4 +1,4 @@
-# 翻墙小道
+# 科学小道
 
 <!-- logo -->
 <p align="center">
