@@ -8,13 +8,13 @@
 
 
 <div align="center">
-    <a href="https://ycu.wangcy.cf"><kbd>YCU起始页</kbd></a> |
-    <a href="https://sou.wangcy.tk"><kbd>简约起始页</kbd></a> |
+    <a href="https://projects.wangcy.site/QR/QR.html"><kbd>二维码生成</kbd></a> |
+    <a href="https://music.wangcy.site/"><kbd>音乐</kbd></a> |
     <a href="https://wangcy.tk/Wallpaper"><kbd>壁纸</kbd></a> | 
     <a href="https://donate.wangcy.tk"><kbd>投喂</kbd></a>
 </div>
 
-# 翻墙小道
+# 科学小道
 
 ## **目录**
 > [建站声明](#%E5%BB%BA%E7%AB%99%E5%A3%B0%E6%98%8E)<br>
