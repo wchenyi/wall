@@ -4,3 +4,5 @@ remote_theme: wchenyi/cayman
 
 google_analytics: GTM-KJFQSS7K
 clarity_tracking: n1zfgaczwq
+include:
+  - assets/js
