@@ -26,7 +26,7 @@
 |✅OneClick|[下载](https://oneclick.earth/#/)| |[下载](https://play.google.com/store/apps/details?id=earth.oneclick)| |⭐资源占用较低（参考值：57.45MB）<br>苹果和安卓端都有此软件、免费，可单独开热点
 |✅NekoBoxForAndroid|[下载](https://github.com/MatsuriDayo/NekoBoxForAndroid)|[下载](https://musetransfer.com/s/vnfu2gpto)|[下载](https://play.google.com/store/apps/details?id=moe.nb4a)| |⭐资源占用较低（参考值：50.89MB）全平台覆盖，使用sing-box内核，详见[说明文档](https://matsuridayo.github.io/)，有插件可选。增添了很多实用功能，比较推荐
 |✅Matsuri|[下载](https://github.com/MatsuriDayo/Matsuri)|[下载](https://musetransfer.com/s/qusu1bsni)|[下载](https://play.google.com/store/apps/details?id=moe.matsuri.lite)| |⭐资源占用较低（参考值：50.64MB）和NB4A一个作者，为长期版本，可将节点添加到桌面
-|✅ClashMeta|[下载](https://clashmeta.xyz/)|[下载](https://musetransfer.com/s/y43osk4bw)|[下载](https://play.google.com/store/apps/details?id=com.github.metacubex.clash.meta)| |在ClashForAndroid超过半年不更新之后，新兴的Clash客户端，支持多平台
+|✅ClashMeta|[下载](https://github.com/MetaCubeX/ClashMetaForAndroid/)|[下载](https://musetransfer.com/s/y43osk4bw)|[下载](https://play.google.com/store/apps/details?id=com.github.metacubex.clash.meta)| |多平台，[Wiki介绍](https://clashmeta.xyz/)
 |✅Hiddify|[下載](https://hiddify.com)||[下載](https://play.google.com/store/apps/details?id=ang.hiddify.com)|||
 |✅Hiddify-next|[下載](https://github.com/hiddify/hiddify-next/releases)||[下載](https://play.google.com/store/apps/details?id=app.hiddify.com)|||
 |✅sing-box|[下载](https://github.com/SagerNet/sing-box)||||少有的免费，支持安卓、Win、iOS、Apple TV的软件|
