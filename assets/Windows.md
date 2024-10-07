@@ -48,6 +48,8 @@
 |clash-nyanpasu|[下载](https://github.com/keiko233/clash-nyanpasu)||默认Meta内核，可更改|
 |Hiddify-next|[下载](https://github.com/hiddify/hiddify-next/releases)||多平台|
 |sing-box|[下载](https://github.com/SagerNet/sing-box)||多平台|
+|F1Clash|[下载](https://github.com/chen08209/FlClash)||基于ClashMeta，Material You设计风格，全平台|
+|karing|[下载](https://github.com/KaringX/karing)||多平台，新软件|
 
 ### **2.1 Trojan-Windows客户端**
 
