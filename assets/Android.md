@@ -30,6 +30,7 @@
 |✅Hiddify|[下載](https://hiddify.com)||[下載](https://play.google.com/store/apps/details?id=ang.hiddify.com)|||
 |✅Hiddify-next|[下載](https://github.com/hiddify/hiddify-next/releases)||[下載](https://play.google.com/store/apps/details?id=app.hiddify.com)|||
 |✅sing-box|[下载](https://github.com/SagerNet/sing-box)||||少有的免费，支持安卓、Win、iOS、Apple TV的软件|
+|✅F1Clash|[下载](https://github.com/chen08209/FlClash)||||基于ClashMeta，Material You设计风格，全平台|
 |Clash MultuPlatform❌|[下载](https://t.me/c/1834195052/42)|[下载](https://musetransfer.com/s/q5ot9fud0)| | |cfa作者在cfa之后的多平台代理软件，目前删库
 
 - 1、大部分安卓手机，将应用商店的地区更改为境外地区后，可搜到上述软件
