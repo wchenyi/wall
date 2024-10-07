@@ -29,7 +29,7 @@
 |✅Mihomo Party|[下载](https://github.com/pompurin404/mihomo-party/releases)|
 |✅Hiddify-next|[下载](https://github.com/hiddify/hiddify-next/releases)|
 |✅sing-box|[下载](https://github.com/SagerNet/sing-box)|
-
+|✅F1Clash|[下载](https://github.com/chen08209/FlClash)|
 ### **1.1 Trojan客户端**
 
 |软件名 |下载地址|
