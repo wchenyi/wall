@@ -33,9 +33,9 @@
 |v2ray-plugin|[下载](https://github.com/shadowsocks/v2ray-plugin)| |shadowsocks插件
 |v2RayN(32位)|[下载](https://download.sakura-cat.club/directlink/1/v2rayN-v5.9.zip)|[下载](https://download.oneok.cloud/v2rayN-v5.9.zip)|⭐32位，兼容性更好，适合老机器，可以结合[插件](https://proxy-switchyomega.com/download/)使用，zip解压安装，无需汉化
 |Qv2ray|[下载](https://github.com/Qv2ray/Qv2ray/releases)| |目前已停止维护，听说对win7支持比较好
-|v2rayW|[下载](https://github.com/Cenmrev/V2RayW/releases)| |
-|Clash Verge|[下载](https://github.com/zzzgydi/clash-verge/releases)| |Clash的变体，资源占用小，自定义皮肤，配置文件管理和增强
-|clash-verge-rev|[下载](https://github.com/clash-verge-rev/clash-verge-rev)||
+|v2rayW|[下载](https://github.com/Cenmrev/V2RayW/releases)| |[Wiki介绍](https://clash-n.com/)
+|Clash Verge|[下载](https://github.com/zzzgydi/clash-verge/releases)| |Clash的变体，资源占用小，自定义皮肤，配置文件管理和增强，|[Wiki介绍](https://clashverge.net/)
+|clash-verge-rev|[下载](https://github.com/clash-verge-rev/clash-verge-rev)||[Wiki介绍](https://clashverge.net/clash-verge-rev/)
 |Shadowsocks|[下载](https://github.com/shadowsocks/shadowsocks-windows)| |支持ss插件的客户端
 |Netch|[下载](https://github.com/NetchX/Netch/releases)|[下载](https://d2.netfiles.pw/v2/windows/Netch-v1.9.2.7z)|体积小，全局代理效果好
 |nekoray|[下载](https://github.com/MatsuriDayo/nekoray/releases)| |全平台支持，有插件可选，不支持32位，win7以下不可用，详见[说明文档](https://matsuridayo.github.io/download/)
@@ -45,7 +45,7 @@
 |Mihomo Party|[下载](https://github.com/pompurin404/mihomo-party/releases)| | |
 |~Clash Multiplatform~|~[下载](https://t.me/c/1834195052/41)~| |~cfa作者制作的多平台clash代理软件，目前仍在测试阶段~|
 |clash-rev|[下载](https://github.com/MerlinKodo/clash-rev)||clash删库后继承的项目，目前为了不必要的竞争，已经存档|
-|clash-nyanpasu|[下载](https://github.com/keiko233/clash-nyanpasu)||默认Meta内核，可更改|
+|clash-nyanpasu|[下载](https://github.com/keiko233/clash-nyanpasu)||默认Meta内核，可更改，[Wiki介绍](https://clashnyanpasu.xyz/)|
 |Hiddify-next|[下载](https://github.com/hiddify/hiddify-next/releases)||多平台|
 |sing-box|[下载](https://github.com/SagerNet/sing-box)||多平台|
 |F1Clash|[下载](https://github.com/chen08209/FlClash)||基于ClashMeta，Material You设计风格，全平台|
