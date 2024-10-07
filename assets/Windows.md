@@ -50,6 +50,7 @@
 |sing-box|[下载](https://github.com/SagerNet/sing-box)||多平台|
 |F1Clash|[下载](https://github.com/chen08209/FlClash)||基于ClashMeta，Material You设计风格，全平台|
 |karing|[下载](https://github.com/KaringX/karing)||多平台，新软件|
+|ClashPro|[下载](https://github.com/KaringX/ClashPro/releases)||新软件|
 
 ### **2.1 Trojan-Windows客户端**
 
