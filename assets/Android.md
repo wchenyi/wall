@@ -1,6 +1,6 @@
 # **Android 安卓**
 
-<a href="https://docs.awall.site/"><img src="https://img.shields.io/badge/%E6%96%B0%E7%89%88-%E6%B5%8B%E8%AF%95-brightyellow?style=plastic"></a>****
+<a href="https://docs.awall.site/"><img src="https://img.shields.io/badge/%E6%96%B0%E7%89%88-%E6%B5%8B%E8%AF%95-brightyellow?style=plastic"></a>
 
 - 安卓平台以开源著称，科学上网的软件较多，质量参差不齐，但大多相同；建议大家选开源的软件，安全可靠有保障，如果你现在处于内网，建议下载1年版本。
 
