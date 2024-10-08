@@ -1,5 +1,7 @@
 # **Windows 微软**
 
+<a href="https://docs.awall.site/"><img src="https://img.shields.io/badge/%E6%96%B0%E7%89%88-%E6%B5%8B%E8%AF%95-brightyellow?style=plastic"></a>
+
 - Windows平台也是一个比较大的操作平台了，内部的软件也很多，普遍免费，自定义选项多。推荐大家下载开源版本，安全可靠有保障；如果你现在处于内网，建议下载1年版本。
 
 - 微软平台就是以开源、免费以及强大而著称，且不存在像安卓那样定制化UI过多导致的生态混乱。但是相比较于高度一体化的苹果来说在代理权线上似乎不是特别优秀。
