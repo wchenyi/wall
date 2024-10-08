@@ -16,8 +16,7 @@
 
 # 科学小道
 
-<a href="https://docs.awall.site/"><img src="https://img.shields.io/badge/%E6%96%B0%E7%89%88-%E6%B5%8B%E8%AF%95-brightyellow?style=plastic
-"></a>
+<a href="https://docs.awall.site/"><img src="https://img.shields.io/badge/%E6%96%B0%E7%89%88-%E6%B5%8B%E8%AF%95-brightyellow?style=plastic"></a>
 
 ## **目录**
 > [建站声明](#%E5%BB%BA%E7%AB%99%E5%A3%B0%E6%98%8E)<br>
