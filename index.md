@@ -16,6 +16,8 @@
 
 # 科学小道
 
+[新版测试](https://docs.awall.site/)
+
 ## **目录**
 > [建站声明](#%E5%BB%BA%E7%AB%99%E5%A3%B0%E6%98%8E)<br>
 > [必看](#%EF%B8%8F%E7%AE%80%E4%BB%8B)<br>
