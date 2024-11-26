@@ -8,7 +8,8 @@
 
 - 总的来说安卓平台开源、自定义程度高是它的优点，但也正因为此不能很好的适应不同的定制化UI，难免会有一些小Bug。但总体来说是不影响使用的。
 
-> Android&安卓、Homary OS&鸿蒙平台适用，HaromnyOS Next平台专用[ClashMeta](https://github.com/likuai2010/ClashMeta)
+> Android&安卓、Homary OS&鸿蒙平台适用
+> **HaromnyOS Next平台专用[ClashMeta](https://github.com/likuai2010/ClashMeta)**
 
 ### **目录**
 
