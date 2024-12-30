@@ -57,8 +57,9 @@
 |ForXray|[链接直达](https://apps.apple.com/hk/app/foxray/id6448898396)
 |Chute|[链接直达](https://apps.apple.com/hk/app/chute-network-toolbox/id1515248945)
 |🐶Spectre|[链接直达](https://apps.apple.com/hk/app/spectre-vpn/id1508712998)
-|v2Box|[链接直达](https://apps.apple.com/app/id6446814690)
+|🐶v2Box|[链接直达](https://apps.apple.com/app/id6446814690)
 |Telescope|[链接直达](https://apps.apple.com/hk/app/v2box-v2ray-client/id6446814690)
+|🐶Streisand|[链接直达](https://apps.apple.com/app/id6450534064)
 
 ## **2、Mac OS** 👩‍💻
 
