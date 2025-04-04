@@ -1,6 +1,5 @@
 # **Apple 苹果**
-
-<a href="https://docs.awall.site/"><img src="https://img.shields.io/badge/%E6%96%B0%E7%89%88-%E6%B5%8B%E8%AF%95-brightyellow?style=plastic"></a>
+<a href="https://docs.awall.dpdns.org/"><img src="https://img.shields.io/badge/%E6%96%B0%E7%89%88-%E6%B5%8B%E8%AF%95-brightyellow?style=plastic"></a>
 
 - 苹果客户端是我最喜欢的客户端，它拥有优美的界面设计、全平台统一的设计元素以及极其强大的软件体验。它一般情况下只支持在AppleStore下载，且大多收费；这为没有外区账号的人造成了一些困难。
 
