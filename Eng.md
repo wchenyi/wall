@@ -4,13 +4,13 @@
     <img src="https://www.freeimg.cn/i/2023/12/11/6575f10443115.png" height="173"/></a>
 </p>
 
-<!--个人项目跳转页-->
+<!--个人项目跳转页
 <div align="center">
     <a href="https://ycu.wangcy.cf">YCU Start Page </a> |
     <a href="https://sou.wangcy.site">Minimalist Start Page</a> |
     <a href="https://wangcy.site/Wallpaper">Wallpaper</a> |
     <a href="https://donate.wangcy.site">Donate</a> 
-</div>
+</div>-->
 
 <!--语言标识-->
 <br>
