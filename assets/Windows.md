@@ -1,6 +1,5 @@
 # **Windows 微软**
-
-<a href="https://docs.awall.site/"><img src="https://img.shields.io/badge/%E6%96%B0%E7%89%88-%E6%B5%8B%E8%AF%95-brightyellow?style=plastic"></a>
+<a href="https://docs.awall.dpdns.org/"><img src="https://img.shields.io/badge/%E6%96%B0%E7%89%88-%E6%B5%8B%E8%AF%95-brightyellow?style=plastic"></a>
 
 - Windows平台也是一个比较大的操作平台了，内部的软件也很多，普遍免费，自定义选项多。推荐大家下载开源版本，安全可靠有保障；如果你现在处于内网，建议下载1年版本。
 
