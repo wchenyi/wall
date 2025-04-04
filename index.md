@@ -6,17 +6,17 @@
 </p>
 
 
-
+<!--
 <div align="center">
     <a href="https://projects.wangcy.site/QR/QR.html"><kbd>二维码生成</kbd></a> |
     <a href="https://music.wangcy.site/"><kbd>音乐</kbd></a> |
     <a href="https://wangcy.tk/Wallpaper"><kbd>壁纸</kbd></a> | 
     <a href="https://donate.wangcy.tk"><kbd>投喂</kbd></a>
-</div>
+</div>-->
 
 # 科学小道
 
-<a href="https://docs.awall.site/"><img src="https://img.shields.io/badge/%E6%96%B0%E7%89%88-%E6%B5%8B%E8%AF%95-brightyellow?style=plastic"></a>
+<a href="https://docs.awall.dpdns.org/"><img src="https://img.shields.io/badge/%E6%96%B0%E7%89%88-%E6%B5%8B%E8%AF%95-brightyellow?style=plastic"></a>
 
 ## **目录**
 > [建站声明](#%E5%BB%BA%E7%AB%99%E5%A3%B0%E6%98%8E)<br>
