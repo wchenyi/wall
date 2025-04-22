@@ -35,6 +35,7 @@
 |✅F1Clash|[下载](https://github.com/chen08209/FlClash)||||基于ClashMeta，Material You设计风格，全平台，资源占用较大|
 |✅karing|[下载](https://github.com/KaringX/karing)||||多平台，新软件|
 |Clash MultuPlatform❌|[下载](https://t.me/c/1834195052/42)|[下载](https://musetransfer.com/s/q5ot9fud0)| | |cfa作者在cfa之后的多平台代理软件，目前删库
+|Clash You|[下载](https://github.com/Yos-X/ClashYou/releases)| | |于2023年停止更新，MD3设计风格的Clash
 
 - 1、大部分安卓手机，将应用商店的地区更改为境外地区后，可搜到上述软件
 
